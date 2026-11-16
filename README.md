@@ -621,28 +621,199 @@ A publicação permite que visitantes conheçam o projeto diretamente pelo naveg
 
 ## 8. Identidade Visual
 
-A identidade visual do **EcoCiclo** foi desenvolvida para representar sustentabilidade, preservação ambiental e conscientização sobre a reciclagem.
+A identidade visual do **EcoCiclo** foi desenvolvida para representar os conceitos de sustentabilidade, preservação ambiental, conscientização ecológica e responsabilidade social.
 
-8.1 Paleta de Cores
+O projeto utiliza uma linguagem visual moderna, organizada e educativa, buscando transmitir confiança, clareza e proximidade com o público.
 
-| Cor | Significado |
-|---|---|
-| **Verde** | Natureza, sustentabilidade e renovação. |
-| **Azul** | Equilíbrio e responsabilidade ambiental. |
-| **Branco** | Organização, simplicidade e legibilidade. |
-| **Tons terrosos** | Referência à natureza e ao meio ambiente. |
+A interface apresenta uma combinação de cores relacionadas à natureza, elementos gráficos associados à reciclagem, tipografia de fácil leitura e componentes visuais padronizados.
 
-8.2 Tipografia
+A proposta é proporcionar uma experiência agradável, mantendo a consistência entre as diferentes páginas do site.
 
-O projeto prioriza fontes modernas, simples e de fácil leitura, buscando proporcionar uma experiência visual organizada e acessível.
+### 8.1 Conceito Visual
 
-8.3 Slogan
+A identidade do EcoCiclo está fundamentada em três princípios:
 
-**"Seu descarte pode transformar o futuro."**
+**Sustentabilidade:** utilização de elementos visuais associados à natureza, à reciclagem e à preservação ambiental.
 
-8.4 Comunicação
+**Simplicidade:** organização dos conteúdos de maneira clara, evitando excesso de informações e elementos visuais desnecessários.
 
-A linguagem utilizada no site busca ser educativa, clara, objetiva e acessível, facilitando a compreensão dos conteúdos por diferentes públicos.
+**Acessibilidade:** preocupação com a legibilidade, a identificação dos controles e a apresentação das informações para diferentes públicos.
+
+Esses princípios orientam a construção da interface e contribuem para reforçar a finalidade educativa do projeto.
+
+### 8.2 Paleta de Cores
+
+O EcoCiclo utiliza uma paleta visual baseada principalmente em tons de verde, combinados com cores neutras e fundos claros ou escuros.
+
+| Cor | Aplicação visual | Significado |
+|---|---|---|
+| **Verde principal** | Botões, destaques, títulos e elementos interativos | Sustentabilidade e natureza |
+| **Verde secundário** | Detalhes, cartões e elementos de apoio | Renovação e equilíbrio |
+| **Branco** | Textos e superfícies claras | Clareza e simplicidade |
+| **Cinza** | Textos secundários, bordas e superfícies | Organização e neutralidade |
+| **Tons escuros** | Fundos e componentes do modo escuro | Contraste e diferenciação visual |
+| **Tons terrosos** | Referências complementares à natureza | Conexão com o meio ambiente |
+
+A utilização dessas cores busca estabelecer uma identidade reconhecível e consistente em todas as páginas.
+
+**Observação:** os valores exatos das cores em HEX ou RGB devem ser consultados no arquivo CSS para documentar fielmente a paleta implementada.
+
+### 8.3 Tipografia
+
+A tipografia do EcoCiclo foi escolhida para favorecer a leitura e a organização das informações.
+
+A interface utiliza diferentes níveis de destaque para estabelecer uma hierarquia visual entre títulos, subtítulos, parágrafos e elementos de navegação.
+
+A organização tipográfica considera:
+
+- Títulos principais com maior destaque.
+- Subtítulos para divisão dos conteúdos.
+- Parágrafos com espaçamento adequado.
+- Textos de botões objetivos.
+- Identificação visual dos links.
+- Contraste entre textos e fundos.
+- Consistência entre as páginas.
+
+A utilização de uma hierarquia visual contribui para que o visitante identifique rapidamente os assuntos apresentados.
+
+### 8.4 Identidade da Marca
+
+O nome **EcoCiclo** representa a relação entre ecologia, reciclagem e o ciclo de reaproveitamento dos materiais.
+
+O símbolo de reciclagem utilizado na comunicação visual reforça a proposta ambiental do projeto.
+
+O slogan oficial é:
+
+> **Seu descarte pode transformar o futuro.**
+
+A mensagem destaca a importância das atitudes individuais e coletivas na preservação ambiental.
+
+O slogan também estabelece uma conexão entre o comportamento dos usuários e os impactos positivos que podem ser alcançados por meio do descarte consciente.
+
+### 8.5 Componentes Visuais
+
+O EcoCiclo apresenta componentes padronizados que contribuem para a organização e a consistência da interface.
+
+Entre os elementos observados estão:
+
+| Componente | Característica | Finalidade |
+|---|---|---|
+| **Cabeçalho** | Identidade do projeto e menu principal | Orientar a navegação |
+| **Botões** | Destaques em verde e formatos arredondados | Incentivar a interação |
+| **Cartões** | Blocos de conteúdo visualmente separados | Organizar informações |
+| **Títulos** | Hierarquia visual destacada | Identificar assuntos |
+| **Formulários** | Campos organizados e identificados | Facilitar o preenchimento |
+| **Player de áudio** | Controles nativos de reprodução | Disponibilizar conteúdo em áudio |
+| **Botão de tema** | Controle de alternância visual | Personalizar a aparência |
+| **Botão voltar ao topo** | Controle flutuante | Facilitar a navegação |
+| **Rodapé** | Links e informações complementares | Apoiar a navegação |
+
+A reutilização desses elementos contribui para manter uma experiência visual consistente entre as páginas.
+
+### 8.6 Modos Claro e Escuro
+
+O EcoCiclo disponibiliza dois modos de visualização, permitindo que o usuário personalize a aparência da interface.
+
+#### 8.6.1 Modo Claro
+
+O modo claro apresenta uma interface baseada em superfícies claras, textos escuros e destaques em verde.
+
+Suas principais características incluem:
+
+- Fundos claros.
+- Textos com cores contrastantes.
+- Botões e elementos destacados em verde.
+- Organização visual leve.
+- Separação dos conteúdos por seções e cartões.
+
+#### 8.6.2 Modo Escuro
+
+O modo escuro utiliza superfícies escuras, textos claros e elementos de destaque em verde.
+
+Suas principais características incluem:
+
+- Fundos escuros.
+- Textos claros.
+- Destaques em verde.
+- Adaptação visual de componentes.
+- Manutenção da estrutura de navegação.
+
+#### 8.6.3 Persistência da Preferência
+
+A alternância entre os temas é controlada por JavaScript.
+
+O projeto utiliza `localStorage` para armazenar a preferência visual selecionada pelo usuário.
+
+Dessa forma, a configuração pode ser recuperada em acessos posteriores.
+
+Esse recurso demonstra a integração entre HTML, CSS e JavaScript na personalização da interface.
+
+### 8.7 Organização e Hierarquia Visual
+
+A organização visual do EcoCiclo foi planejada para facilitar a identificação das informações.
+
+As páginas apresentam uma estrutura baseada em:
+
+1. Cabeçalho e navegação principal.
+2. Título ou apresentação do conteúdo.
+3. Seções informativas.
+4. Elementos de interação, quando disponíveis.
+5. Conteúdos complementares.
+6. Rodapé.
+
+A separação entre os blocos de conteúdo contribui para melhorar a leitura e tornar a navegação mais intuitiva.
+
+### 8.8 Experiência Visual em Dispositivos Móveis
+
+O projeto considera a necessidade de adaptar sua apresentação a diferentes tamanhos de tela.
+
+Na gravação da versão mobile, foram observadas características como:
+
+- Organização vertical do conteúdo.
+- Adaptação de cartões e seções.
+- Disponibilidade dos controles de áudio.
+- Presença da alternância de tema.
+- Exibição dos botões flutuantes.
+- Ajuste dos elementos visuais à área disponível.
+
+Essas características demonstram a preocupação com a experiência em dispositivos móveis.
+
+Entretanto, testes adicionais são necessários para verificar a navegação em diferentes resoluções e identificar possíveis problemas de sobreposição ou transbordamento.
+
+### 8.9 Consistência e Acessibilidade Visual
+
+A identidade visual também considera aspectos relacionados à acessibilidade e à usabilidade.
+
+Entre os critérios de avaliação estão:
+
+- Contraste entre texto e fundo.
+- Legibilidade dos títulos e parágrafos.
+- Identificação dos botões.
+- Organização dos formulários.
+- Tamanho adequado dos elementos interativos.
+- Diferenciação visual entre links e textos comuns.
+- Indicação do foco durante a navegação por teclado.
+
+A verificação desses critérios deve considerar os dois temas disponíveis.
+
+A consistência visual contribui para facilitar o aprendizado da interface e reduzir dificuldades durante a navegação.
+
+### 8.10 Diretrizes de Comunicação
+
+A linguagem utilizada pelo EcoCiclo busca ser educativa, acessível e objetiva.
+
+O conteúdo procura apresentar informações ambientais de forma compreensível, incentivando atitudes sustentáveis sem exigir conhecimentos técnicos prévios.
+
+A comunicação do projeto prioriza:
+
+- Clareza das informações.
+- Linguagem acessível.
+- Incentivo à participação.
+- Conscientização ambiental.
+- Responsabilidade social.
+- Valorização de atitudes sustentáveis.
+
+A identidade visual e a linguagem textual trabalham em conjunto para reforçar a proposta educativa do EcoCiclo.
 
 ---
 
