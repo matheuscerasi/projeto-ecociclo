@@ -1,31 +1,95 @@
-♻️ EcoCiclo
+<div align="center">
 
-Seu descarte pode transformar o futuro.
+# ♻️ EcoCiclo
 
-Projeto acadêmico — Desenvolvimento Front-End para Web | UNICID
+### 🌱 Seu descarte pode transformar o futuro.
 
-O EcoCiclo é um site educativo voltado à conscientização ambiental, à reciclagem e ao descarte adequado de resíduos. O projeto busca incentivar práticas sustentáveis, promover a educação ambiental e disponibilizar informações acessíveis à população.
+**Educação ambiental • Reciclagem • Sustentabilidade**
 
-🌐 Acesse o projeto
+Plataforma educativa desenvolvida para promover a conscientização ambiental, incentivar práticas sustentáveis e orientar sobre o descarte adequado de resíduos.
 
-Site publicado: EcoCiclo — Netlify
+<br>
 
-Repositório: GitHub — Projeto EcoCiclo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Apresentação: Sistema EcoCiclo — Link do site: https://ecociclo-projeto.netlify.app <br>
-Apresentação de Slides: https://canva.link/4v3453bjc3lumua
+<br>
 
-Integrantes
+### 🔗 Acesse o Projeto
 
-* Matheus Cerasi — RGM: 47495821
-* Eduardo Correa — RGM: 47674245
-* Igor Hideki — RGM: 47658673
-* Ryan Mangeth — RGM: 4834888
-* Leonardo Rodrigues — RGM: 47569590
+[![Visualizar Site](https://img.shields.io/badge/ACESSAR_SITE-2E7D32?style=for-the-badge&logo=netlify&logoColor=white)](https://ecociclo-projeto.netlify.app/)
 
+[![Repositório GitHub](https://img.shields.io/badge/REPOSITÓRIO_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscerasi/projeto-ecociclo)
+
+[![Apresentação](https://img.shields.io/badge/APRESENTAÇÃO-8E44AD?style=for-the-badge)](https://canva.link/4v3453bjc3lumua)
+
+<br>
+
+**Projeto Acadêmico | UNICID | Desenvolvimento Front-End para Web**
+
+</div>
 
 ---
 
+## 1. Apresentação do Projeto
+
+O **EcoCiclo** é um site educativo voltado à conscientização ambiental, à reciclagem e ao descarte adequado de resíduos.
+
+O projeto foi idealizado para incentivar mudanças positivas nos hábitos da população, promovendo o acesso a informações sobre sustentabilidade, preservação ambiental e consumo consciente.
+
+Desenvolvido utilizando **HTML5, CSS3 e JavaScript**, o site reúne conteúdos educativos e recursos interativos, buscando oferecer uma experiência de navegação organizada, intuitiva e acessível.
+
+A proposta do EcoCiclo é demonstrar como a tecnologia pode contribuir para a educação ambiental, aproximando os usuários de informações que incentivem atitudes responsáveis em relação ao meio ambiente.
+
+### 1.1 Informações Acadêmicas
+
+| Informação | Descrição |
+|---|---|
+| **Projeto** | EcoCiclo |
+| **Instituição** | Universidade Cidade de São Paulo (UNICID) |
+| **Curso** | Ciência da Computação |
+| **Disciplina** | Desenvolvimento Front-End para Web |
+| **Professor** | Paulo Sérgio Fratta Junior |
+| **Modalidade** | Projeto acadêmico em grupo |
+| **Tecnologias** | HTML5, CSS3 e JavaScript |
+| **Hospedagem** | Netlify |
+| **Site** | https://ecociclo-projeto.netlify.app/ |
+
+### 1.2 Integrantes
+
+| Integrante | RGM |
+|---|---|
+| **Matheus Cerasi** | 47495821 |
+| **Eduardo Correa** | 47674245 |
+| **Igor Hideki** | 47658673 |
+| **Ryan Mangeth** | 4834888 |
+| **Leonardo Rodrigues** | 47569590 |
+
+### 1.3 Proposta do EcoCiclo
+
+O projeto busca conectar **tecnologia, educação ambiental e responsabilidade social**, utilizando uma plataforma digital para divulgar conhecimentos sobre reciclagem e práticas sustentáveis.
+
+Entre suas principais propostas estão:
+
+- Incentivar o descarte adequado de resíduos.
+- Promover a conscientização ambiental.
+- Disponibilizar conteúdos educativos sobre reciclagem.
+- Divulgar iniciativas e projetos sustentáveis.
+- Facilitar o acesso a informações ambientais.
+- Aplicar conhecimentos de desenvolvimento Front-End em um projeto com finalidade social.
+
+---
+
+<div align="center">
+
+**♻️ EcoCiclo — Seu descarte pode transformar o futuro.**
+
+</div>
+
+---
 
 ## 2. Contexto e Justificativa
 
@@ -42,11 +106,11 @@ O projeto também considera a acessibilidade digital, buscando proporcionar uma 
 
 ## 3. Objetivos
 
-3.1 Objetivo Geral
+### 3.1 Objetivo Geral
 
 Desenvolver um site educativo sobre reciclagem e sustentabilidade, utilizando tecnologias de desenvolvimento Front-End para promover a conscientização ambiental e incentivar o descarte adequado de resíduos.
 
-3.2 Objetivos Específicos
+### 3.2 Objetivos Específicos
 
 * Apresentar informações educativas sobre reciclagem e descarte correto.
 * Explicar a importância da separação dos resíduos.
@@ -64,7 +128,7 @@ Desenvolver um site educativo sobre reciclagem e sustentabilidade, utilizando te
 
 O EcoCiclo é destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental.
 
-4.1 Perfil do Público
+### 4.1 Perfil do Público
 
 O público-alvo inclui:
 
@@ -74,15 +138,15 @@ O público-alvo inclui:
 * Pessoas interessadas em consumo consciente.
 * Usuários que desejam conhecer iniciativas sustentáveis.
 
-4.2 Faixa Etária
+### 4.2 Faixa Etária
 
 O conteúdo foi planejado principalmente para usuários a partir de 15 anos, podendo ser acessado por pessoas de diferentes idades.
 
-4.3 Localização
+### 4.3 Localização
 
 O projeto considera inicialmente o público brasileiro, utilizando conteúdos relacionados à realidade ambiental do Brasil.
 
-4.4 Acessibilidade
+### 4.4 Acessibilidade
 
 O projeto prevê medidas que facilitem o acesso de pessoas com diferentes necessidades, incluindo usuários com deficiência visual, auditiva ou motora.
 
@@ -109,13 +173,13 @@ O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para fac
 | Orçamento | `orcamento_hospedagem.html` | Comparar alternativas de hospedagem e domínio |
 
 
-5.1 Navegação
+### 5.1 Navegação
 
 A navegação foi planejada para permitir o acesso às diferentes páginas por meio de links e menus.
 
 A organização busca proporcionar uma experiência simples, intuitiva e consistente.
 
-5.2 Formulário de Contato
+### 5.2 Formulário de Contato
 
 A página de contato foi planejada para permitir a interação dos usuários com o projeto.
 
@@ -128,7 +192,7 @@ O arquivo script.js implementa validações em JavaScript, incluindo:
 * Exibição de mensagens de erro próximas aos campos.
 * Bloqueio do envio quando existem erros de preenchimento.
 
-5.3 Recursos Multimídia
+### 5.3 Recursos Multimídia
 
 A página de mídia foi planejada para apresentar conteúdos relacionados à reciclagem utilizando recursos HTML5, como:
 
@@ -136,7 +200,7 @@ A página de mídia foi planejada para apresentar conteúdos relacionados à rec
 * Áudios.
 * Conteúdos incorporados por iframe.
 
-5.4 Notícias e Projetos
+### 5.4 Notícias e Projetos
 
 As páginas de notícias e projetos têm como finalidade ampliar o acesso a informações sobre sustentabilidade e apresentar iniciativas que incentivem práticas ambientalmente responsáveis.
 
