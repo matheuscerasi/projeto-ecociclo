@@ -1,4 +1,4 @@
-♻️ EcoCiclo
+z♻️ EcoCiclo
 
 Seu descarte pode transformar o futuro.
 

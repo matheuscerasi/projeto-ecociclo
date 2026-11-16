@@ -1682,3 +1682,44 @@ body.modo-escuro select {
     color: #eaf5ee;
     border-color: #2c4636;
 }
+
+/* PLAYER DE ÁUDIO DAS PÁGINAS */
+
+.audio-player {
+    padding: 40px 0 0;
+}
+
+.audio-player-box {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 24px 28px;
+
+    background: #e9f7ee;
+    border: 1px solid #dce9e0;
+    border-left: 5px solid #159653;
+    border-radius: 16px;
+}
+
+.audio-player-box h2 {
+    margin-bottom: 6px;
+    font-size: 22px;
+    line-height: 1.3;
+}
+
+.audio-player-box p {
+    margin-bottom: 16px;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.audio-player-box audio {
+    display: block;
+    width: 100%;
+    margin-top: 0;
+}
+
+body.modo-escuro .audio-player-box {
+    background: #172a20;
+    border-color: #23392d;
+    border-left-color: #159653;
+}
