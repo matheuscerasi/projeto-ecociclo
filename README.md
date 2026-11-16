@@ -1,20 +1,20 @@
-Link do site: https://ecociclo-projeto.netlify.app <br>
+♻️ EcoCiclo
+
+Seu descarte pode transformar o futuro.
+
+Projeto acadêmico — Desenvolvimento Front-End para Web | UNICID
+
+O EcoCiclo é um site educativo voltado à conscientização ambiental, à reciclagem e ao descarte adequado de resíduos. O projeto busca incentivar práticas sustentáveis, promover a educação ambiental e disponibilizar informações acessíveis à população.
+
+🌐 Acesse o projeto
+
+Site publicado: EcoCiclo — Netlify
+
+Repositório: GitHub — Projeto EcoCiclo
+
+Apresentação: Slides do EcoCiclo — CanvaLink do site: https://ecociclo-projeto.netlify.app <br>
 Apresentação de Slides: https://canva.link/zm2mutvx0y2mpam
 
-# EcoCiclo
-
-## 1. Identificação
-
-- **Nome da equipe:** EcoCiclo
-- **Nome do projeto/site:** EcoCiclo
-- **Integrantes:**
-  - Matheus Cerasi
-  - Eduardo Correa
-  - Igor Hideki
-  - Ryan Mangeth
-  - Leonardo Rodrigues
-- **Professor:** Paulo Sérgio Fratta Junior
-- **Disciplina:** Desenvolvimento Front-End para Web
 
 ## 2. Contexto e Justificativa
 
