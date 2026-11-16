@@ -1,4 +1,4 @@
-z♻️ EcoCiclo
+♻️ EcoCiclo
 
 Seu descarte pode transformar o futuro.
 
@@ -12,119 +12,137 @@ Site publicado: EcoCiclo — Netlify
 
 Repositório: GitHub — Projeto EcoCiclo
 
-Apresentação: Slides do EcoCiclo — CanvaLink do site: https://ecociclo-projeto.netlify.app <br>
-Apresentação de Slides: https://canva.link/zm2mutvx0y2mpam
+Apresentação: Sistema EcoCiclo — Link do site: https://ecociclo-projeto.netlify.app <br>
+Apresentação de Slides: https://canva.link/4v3453bjc3lumua
+
+Integrantes
+
+* Matheus Cerasi — RGM: 47495821
+* Eduardo Correa — RGM: 47674245
+* Igor Hideki — RGM: 47658673
+* Ryan Mangeth — RGM: 4834888
+* Leonardo Rodrigues — RGM: 47569590
+
+
+---
 
 
 ## 2. Contexto e Justificativa
 
-O projeto EcoCiclo foi desenvolvido com o objetivo de abordar a questão da reciclagem e do descarte adequado de resíduos, promovendo a conscientização ambiental e incentivando práticas mais responsáveis no cotidiano da população.
+O descarte inadequado de resíduos representa um desafio ambiental e social, contribuindo para a poluição, o desperdício de materiais reutilizáveis e o aumento dos impactos ambientais.
 
-O descarte inadequado de resíduos pode contribuir para problemas ambientais e sociais, tornando necessária a disseminação de informações que auxiliem as pessoas a compreenderem a importância da separação e do encaminhamento correto dos materiais recicláveis. Nesse contexto, o site será desenvolvido como uma ferramenta digital de caráter educativo e informativo, reunindo conteúdos sobre reciclagem, sustentabilidade, projetos ambientais, impactos do descarte de resíduos e formas de participação da sociedade.
+Diante desse cenário, o EcoCiclo foi idealizado como uma ferramenta digital educativa, com o propósito de disponibilizar informações sobre reciclagem, separação de resíduos, preservação ambiental e práticas sustentáveis.
 
-A escolha do tema está diretamente relacionada aos conceitos de sustentabilidade e impacto social, uma vez que o projeto busca incentivar atitudes que contribuam para a redução dos impactos ambientais e para a construção de uma maior consciência sobre a responsabilidade individual e coletiva em relação aos resíduos produzidos.
+A escolha do tema está relacionada à importância da educação ambiental e da participação da sociedade na construção de hábitos mais responsáveis.
 
-Além disso, o projeto terá como preocupação a acessibilidade digital, buscando disponibilizar as informações de maneira adequada para diferentes usuários, incluindo pessoas com deficiência. Dessa forma, o EcoCiclo pretende unir educação ambiental, inclusão e tecnologia em uma plataforma acessível e informativa.
+O projeto também considera a acessibilidade digital, buscando proporcionar uma experiência de navegação compreensível e inclusiva para diferentes públicos.
+
+---
+
 
 ## 3. Objetivos
 
-### 3.1 Objetivo Geral
+3.1 Objetivo Geral
 
-Desenvolver um site educativo e acessível sobre reciclagem, com o propósito de informar e conscientizar os usuários sobre a importância do descarte adequado de resíduos e da adoção de práticas sustentáveis no cotidiano.
+Desenvolver um site educativo sobre reciclagem e sustentabilidade, utilizando tecnologias de desenvolvimento Front-End para promover a conscientização ambiental e incentivar o descarte adequado de resíduos.
 
-### 3.2 Objetivos Específicos
+3.2 Objetivos Específicos
 
-- Apresentar informações educativas sobre reciclagem, separação e descarte adequado de diferentes tipos de resíduos.
-- Divulgar projetos e iniciativas relacionados à sustentabilidade e à preservação ambiental.
-- Apresentar dados, informações e resultados relacionados aos impactos ambientais e sociais da reciclagem.
-- Desenvolver uma interface acessível, responsiva e de fácil navegação, considerando também as necessidades de pessoas com deficiência.
-- Disponibilizar conteúdos multimídia, notícias e materiais informativos que estimulem a conscientização e a participação dos usuários em práticas sustentáveis.
+* Apresentar informações educativas sobre reciclagem e descarte correto.
+* Explicar a importância da separação dos resíduos.
+* Divulgar projetos e iniciativas ambientais.
+* Apresentar dados e informações sobre impactos ambientais e sociais.
+* Disponibilizar conteúdos multimídia e notícias.
+* Desenvolver uma interface organizada, acessível e responsiva.
+* Aplicar conhecimentos de HTML5, CSS3 e JavaScript.
+* Utilizar o GitHub para versionamento e colaboração.
+* Publicar o projeto na internet.
+
+---
 
 ## 4. Público-Alvo
 
-O EcoCiclo será destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental, oferecendo informações de forma simples, educativa e acessível.
+O EcoCiclo é destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental.
 
-### 4.1 Perfil do Público
+4.1 Perfil do Público
 
-O público-alvo será composto principalmente por:
+O público-alvo inclui:
 
-- Estudantes interessados em educação ambiental;
-- Jovens e adultos que desejam aprender sobre reciclagem;
-- Famílias que buscam informações para realizar a separação correta de resíduos em suas residências;
-- Pessoas interessadas em práticas sustentáveis e consumo consciente;
-- Usuários que desejam conhecer projetos e iniciativas relacionados à reciclagem.
+* Estudantes interessados em educação ambiental.
+* Jovens e adultos que desejam aprender sobre reciclagem.
+* Famílias que buscam informações sobre separação de resíduos.
+* Pessoas interessadas em consumo consciente.
+* Usuários que desejam conhecer iniciativas sustentáveis.
 
-### 4.2 Faixa Etária
+4.2 Faixa Etária
 
-O site será direcionado principalmente a usuários a partir de 15 anos, podendo ser utilizado por pessoas de diferentes faixas etárias que tenham interesse pelo tema.
+O conteúdo foi planejado principalmente para usuários a partir de 15 anos, podendo ser acessado por pessoas de diferentes idades.
 
-### 4.3 Localização
+4.3 Localização
 
-O projeto será desenvolvido considerando inicialmente usuários do Brasil, utilizando informações e exemplos relacionados ao contexto brasileiro.
+O projeto considera inicialmente o público brasileiro, utilizando conteúdos relacionados à realidade ambiental do Brasil.
 
-### 4.4 Necessidades Específicas
+4.4 Acessibilidade
 
-O site será desenvolvido considerando diferentes necessidades de acesso, incluindo pessoas com deficiência visual, auditiva e motora. Para isso, serão aplicadas medidas de acessibilidade, como textos alternativos em imagens, contraste adequado, navegação por teclado, identificação dos campos de formulário e utilização de recursos de acessibilidade quando necessários.
+O projeto prevê medidas que facilitem o acesso de pessoas com diferentes necessidades, incluindo usuários com deficiência visual, auditiva ou motora.
 
-Dessa forma, o EcoCiclo buscará oferecer uma experiência de navegação acessível, permitindo que diferentes usuários tenham acesso aos conteúdos relacionados à reciclagem e à sustentabilidade.
+Entre os recursos considerados estão textos alternativos, contraste adequado, identificação de formulários e navegação por teclado.
+
+---
 
 ## 5. Escopo Funcional
 
-O site EcoCiclo será composto por 10 páginas HTML interligadas, permitindo que o usuário navegue entre os diferentes conteúdos por meio de um menu principal presente nas páginas do projeto.
+O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para facilitar o acesso às informações.
 
-### 5.1 Página Inicial – `index.html`
 
-A página inicial será responsável por apresentar o EcoCiclo, seu propósito e o tema da reciclagem. Será composta por uma apresentação do projeto, destaques dos principais conteúdos e links para as demais páginas do site.
+| Página | Arquivo | Finalidade |
+|---|---|---|
+| Início | `index.html` | Apresentar o projeto e seus principais conteúdos |
+| Sobre | `sobre.html` | Explicar missão, visão, valores e proposta |
+| Projetos | `projetos.html` | Divulgar iniciativas sustentáveis |
+| Impacto | `impacto.html` | Apresentar dados e impactos da reciclagem |
+| Acessibilidade | `acessibilidade.html` | Informar sobre inclusão e acessibilidade |
+| Galeria | `galeria.html` | Exibir imagens relacionadas à sustentabilidade |
+| Mídia | `midia.html` | Disponibilizar conteúdos multimídia |
+| Notícias | `noticias.html` | Reunir informações e notícias ambientais |
+| Contato | `contato.html` | Disponibilizar um formulário de contato |
+| Orçamento | `orcamento_hospedagem.html` | Comparar alternativas de hospedagem e domínio |
 
-### 5.2 Sobre – `sobre.html`
 
-Apresentará a história do EcoCiclo, sua missão, visão e valores, explicando a finalidade do projeto e sua relação com a sustentabilidade e a conscientização ambiental.
+5.1 Navegação
 
-### 5.3 Projetos – `projetos.html`
+A navegação foi planejada para permitir o acesso às diferentes páginas por meio de links e menus.
 
-Apresentará projetos e iniciativas relacionados à reciclagem e à sustentabilidade, mostrando seus objetivos, formas de funcionamento e possíveis impactos ambientais e sociais.
+A organização busca proporcionar uma experiência simples, intuitiva e consistente.
 
-### 5.4 Impacto – `impacto.html`
+5.2 Formulário de Contato
 
-Apresentará dados, tabelas e informações relacionadas à reciclagem, permitindo demonstrar os impactos ambientais e sociais associados à separação e ao reaproveitamento de resíduos.
+A página de contato foi planejada para permitir a interação dos usuários com o projeto.
 
-### 5.5 Acessibilidade – `acessibilidade.html`
+O arquivo script.js implementa validações em JavaScript, incluindo:
 
-Apresentará as medidas de acessibilidade utilizadas no desenvolvimento do site e informações sobre a importância da inclusão digital, destacando recursos destinados a facilitar o acesso de pessoas com deficiência.
+* Verificação de campos obrigatórios.
+* Validação do formato de e-mail.
+* Verificação da quantidade mínima de caracteres.
+* Validação de caixas de seleção obrigatórias.
+* Exibição de mensagens de erro próximas aos campos.
+* Bloqueio do envio quando existem erros de preenchimento.
 
-### 5.6 Galeria – `galeria.html`
+5.3 Recursos Multimídia
 
-Disponibilizará uma galeria de imagens relacionadas à reciclagem, sustentabilidade e preservação ambiental. As imagens serão acompanhadas de legendas e indicação de suas respectivas fontes.
+A página de mídia foi planejada para apresentar conteúdos relacionados à reciclagem utilizando recursos HTML5, como:
 
-### 5.7 Mídia – `midia.html`
+* Vídeos.
+* Áudios.
+* Conteúdos incorporados por iframe.
 
-Disponibilizará conteúdos multimídia relacionados ao tema do projeto, incluindo vídeo, áudio e conteúdo incorporado por meio de iframe.
+5.4 Notícias e Projetos
 
-### 5.8 Notícias – `noticias.html`
+As páginas de notícias e projetos têm como finalidade ampliar o acesso a informações sobre sustentabilidade e apresentar iniciativas que incentivem práticas ambientalmente responsáveis.
 
-Apresentará notícias, artigos e conteúdos informativos relacionados à reciclagem, sustentabilidade, preservação ambiental e iniciativas de impacto social.
 
-### 5.9 Contato – `contato.html`
+---
 
-Apresentará dados fictícios de contato do EcoCiclo e um formulário para interação com os usuários. O formulário contará com validação utilizando recursos do HTML5, incluindo campos obrigatórios e diferentes tipos de entrada.
-
-### 5.10 Orçamento de Hospedagem – `orcamento_hospedagem.html`
-
-Apresentará um comparativo entre diferentes opções de hospedagem e domínio para o projeto, considerando informações como preço, recursos disponíveis e características dos serviços.
-
-### 5.11 Navegação
-
-Todas as páginas serão interligadas por meio de um sistema de navegação principal, permitindo que o usuário acesse as diferentes áreas do site de maneira simples e organizada.
-
-O menu principal terá links para as 10 páginas do projeto e será estruturado de forma consistente entre as páginas.
-
-### 5.12 Formulário
-
-O formulário da página de contato utilizará recursos de validação do HTML5, incluindo os atributos `required`, `email`, `tel`, `date`, `number` e `pattern`, além da utilização de elementos `<label>` associados aos respectivos campos.
-
-### 5.13 Recursos Multimídia
-
-O projeto utilizará os elementos HTML5 `<video>`, `<audio>` e `<iframe>` para disponibilizar diferentes formatos de conteúdo relacionados ao tema da reciclagem.
 
 ## 6. Escopo Não Funcional
 
@@ -256,89 +274,75 @@ O site **EcoCiclo** será estruturado em 10 páginas principais, todas interliga
 
 O usuário poderá acessar qualquer uma das páginas por meio do menu principal. Ao final das páginas, também poderão ser utilizados links internos para direcionar o visitante a conteúdos relacionados, mantendo uma navegação simples, intuitiva e consistente em todo o site.
 
-## 8. Conteúdo e Identidade Visual
 
-O site **EcoCiclo** terá uma identidade visual relacionada à sustentabilidade, reciclagem e preservação ambiental. O objetivo é transmitir uma imagem moderna, educativa, acessível e agradável para os usuários.
+## 8. Identidade Visual
 
-**Nome do projeto:**  
-EcoCiclo
+A identidade visual do **EcoCiclo** foi desenvolvida para representar sustentabilidade, preservação ambiental e conscientização sobre a reciclagem.
 
-**Slogan:**  
-"Seu descarte pode transformar o futuro."
+8.1 Paleta de Cores
 
-**Tom de comunicação:**  
-A comunicação será educativa, clara, objetiva e acessível. Os textos serão desenvolvidos utilizando uma linguagem simples, buscando facilitar a compreensão das informações por diferentes públicos.
+| Cor | Significado |
+|---|---|
+| **Verde** | Natureza, sustentabilidade e renovação. |
+| **Azul** | Equilíbrio e responsabilidade ambiental. |
+| **Branco** | Organização, simplicidade e legibilidade. |
+| **Tons terrosos** | Referência à natureza e ao meio ambiente. |
 
-**Paleta de cores:**
+8.2 Tipografia
 
-- **Verde:** será a cor principal, representando natureza, sustentabilidade e renovação.
-- **Azul:** será utilizado como cor complementar, representando equilíbrio e responsabilidade.
-- **Branco:** será utilizado para proporcionar maior organização e legibilidade.
-- **Tons terrosos:** poderão ser utilizados em pequenos detalhes, fazendo referência à natureza e ao meio ambiente.
+O projeto prioriza fontes modernas, simples e de fácil leitura, buscando proporcionar uma experiência visual organizada e acessível.
 
-**Tipografia:**  
-Serão utilizadas fontes modernas, simples e de fácil leitura, mantendo tamanhos e contrastes adequados para facilitar a acessibilidade.
+8.3 Slogan
 
-**Logo:**  
-A identidade visual utilizará o nome **EcoCiclo** acompanhado de um elemento relacionado à reciclagem, como o símbolo de reciclagem e/ou uma folha.
+**"Seu descarte pode transformar o futuro."**
 
-**Conteúdo:**  
-O site apresentará conteúdos relacionados a:
+8.4 Comunicação
 
-- Reciclagem;
-- Separação e descarte correto de resíduos;
-- Sustentabilidade;
-- Preservação ambiental;
-- Projetos e iniciativas sustentáveis;
-- Impactos ambientais e sociais;
-- Acessibilidade;
-- Notícias e conteúdos informativos.
+A linguagem utilizada no site busca ser educativa, clara, objetiva e acessível, facilitando a compreensão dos conteúdos por diferentes públicos.
 
-As imagens utilizadas na galeria deverão possuir legendas e informações sobre suas fontes, conforme previsto na estrutura da atividade.
+---
 
-## 9. Tecnologias e Ferramentas
+## 9. Tecnologias Utilizadas
 
-O desenvolvimento do EcoCiclo utilizará tecnologias voltadas à criação de páginas web, priorizando uma estrutura simples, organizada e compatível com os requisitos da atividade.
+9.1 HTML5
 
-**Tecnologias principais:**
+Utilizado na estruturação das páginas, organização semântica dos conteúdos, criação de formulários e inclusão de elementos multimídia.
 
-- **HTML5:** utilizado para estruturar as páginas e organizar semanticamente os conteúdos.
-- **CSS3:** utilizado para desenvolver a identidade visual, layout, cores, tipografia, responsividade e estilos das páginas.
-- **JavaScript:** poderá ser utilizado quando necessário para adicionar interações ou funcionalidades ao site.
+9.2 CSS3
 
-**Ferramentas de desenvolvimento:**
+Utilizado na definição da identidade visual, cores, tipografia, espaçamentos, layouts e adaptação da interface para diferentes dispositivos.
 
-- **Visual Studio Code (VS Code):** utilizado como ambiente principal para criação e edição dos arquivos do projeto.
-- **Navegadores Web:** utilizados para visualizar e testar o funcionamento das páginas.
-- **W3C Validator:** utilizado para verificar a estrutura e identificar possíveis erros no código HTML.
-- **Ferramentas de controle de versão:** poderão ser utilizadas pela equipe para acompanhar alterações e facilitar o desenvolvimento colaborativo.
+9.3 JavaScript
 
-**Organização dos arquivos:**
+O JavaScript foi utilizado para implementar funcionalidades interativas no EcoCiclo, melhorando a experiência de navegação e a interação dos usuários com o site.
 
-O projeto seguirá uma estrutura organizada contendo:
+Funcionalidades implementadas no script.js:
 
-```text
-EcoCiclo/
-│
-├── index.html
-├── sobre.html
-├── projetos.html
-├── impacto.html
-├── acessibilidade.html
-├── galeria.html
-├── midia.html
-├── noticias.html
-├── contato.html
-├── orcamento_hospedagem.html
-│
-├── css/
-├── js/
-├── img/
-├── assets/
-└── docs/
-```
+* Modo escuro e claro: permite alternar a aparência do site por meio de um botão interativo.
+* Persistência com localStorage: armazena a preferência de tema do usuário e recupera essa configuração em acessos posteriores.
+* Botão voltar ao topo: permite retornar suavemente ao início da página.
+* Manipulação do DOM: cria elementos dinamicamente, modifica classes CSS e apresenta mensagens de validação.
+* Validação de formulários: verifica campos obrigatórios, formato de e-mail, tamanho mínimo de texto e caixas de seleção obrigatórias.
+* Mensagens de erro: apresenta avisos visuais próximos aos campos que não atendem aos critérios de preenchimento.
+* Eventos JavaScript: utiliza eventos como click, scroll e submit para controlar as interações.
+* Mensagem de boas-vindas: disponibiliza a função mostrarAviso() para exibir um alerta educativo.
 
-Essa organização segue a estrutura de pastas e arquivos indicada para a entrega do projeto.
+Essas funcionalidades demonstram a aplicação prática de conceitos de programação Front-End, manipulação do DOM, eventos e armazenamento local no navegador.
+
+
+### 9.4 Ferramentas
+
+| Ferramenta | Finalidade |
+|---|---|
+| **Visual Studio Code (VS Code)** | Ambiente de desenvolvimento e edição dos arquivos HTML, CSS e JavaScript. |
+| **Git** | Controle de versões e acompanhamento das alterações realizadas no projeto. |
+| **GitHub** | Armazenamento do repositório, colaboração entre integrantes e histórico de commits. |
+| **Netlify** | Hospedagem e publicação do site EcoCiclo na internet. |
+| **Navegadores Web** | Visualização e testes de funcionamento, navegação e responsividade. |
+| **W3C Validator** | Ferramenta prevista para validação da estrutura HTML e identificação de possíveis erros. |
+| **Canva** | Criação e organização dos slides utilizados na apresentação acadêmica. |
+
+---
 
 ## 10. Cronograma e Divisão de Tarefas
 
@@ -376,3 +380,94 @@ O progresso poderá ser acompanhado por meio de reuniões da equipe e ferramenta
 
 **Cronograma:**  
 As datas específicas de desenvolvimento e entrega serão definidas pela equipe de acordo com o prazo estabelecido pelo professor e disponibilizado no Blackboard.
+
+---
+
+## 11. Evolução do MVP para a Segunda Entrega
+
+O EcoCiclo foi organizado em etapas de desenvolvimento, iniciando com a definição do escopo e a elaboração de sua estrutura inicial.
+
+Na segunda entrega, o objetivo é apresentar a versão funcional do site e demonstrar o atendimento aos requisitos estabelecidos pela disciplina.
+
+### 11.1 Feedback da Primeira Entrega
+
+Até o momento da organização da segunda entrega, a equipe não havia recebido uma devolutiva formal do professor referente ao MVP.
+
+Diante disso, a revisão do projeto foi orientada pelos requisitos disponibilizados para a segunda entrega.
+
+### 11.2 Revisão do Projeto
+
+A revisão contempla:
+
+- Funcionamento das páginas.
+- Navegação entre os conteúdos.
+- Recursos HTML5.
+- Responsividade.
+- Funcionalidades JavaScript.
+- Acessibilidade.
+- Publicação do site.
+- Documentação.
+- Histórico do GitHub.
+
+### 11.3 Preservação da Versão Funcional
+
+Durante a preparação da entrega, a equipe informou que o site estava funcionando corretamente.
+
+Por esse motivo, foi priorizada a organização da documentação, evitando alterações no código sem necessidade comprovada.
+
+### 11.4 Registro de Melhorias
+
+As melhorias efetivamente realizadas entre o MVP e a versão final deverão ser documentadas com:
+
+- Descrição da alteração.
+- Justificativa.
+- Data.
+- Responsável.
+- Evidência ou commit correspondente.
+
+Não serão atribuídas ao professor correções que não tenham sido formalmente recebidas.
+
+---
+
+
+## 12. Testes e Validação
+
+A validação do EcoCiclo considera os requisitos técnicos estabelecidos para a segunda entrega da disciplina.
+
+### 12.1 Critérios de Verificação
+
+| Verificação | Critério |
+|---|---|
+| **Navegação** | Funcionamento dos links entre as páginas. |
+| **HTML5** | Verificação da estrutura pelo W3C Validator. |
+| **Responsividade** | Adaptação da interface a diferentes tamanhos de tela. |
+| **Formulário** | Validação dos campos e exibição de mensagens de erro. |
+| **JavaScript** | Funcionamento dos eventos e interações com o DOM. |
+| **localStorage** | Armazenamento e recuperação da preferência de tema. |
+| **Acessibilidade** | Contraste, navegação por teclado e textos alternativos. |
+| **Publicação** | Acesso ao site por meio de HTTPS. |
+| **GitHub** | Histórico de commits e colaboração entre integrantes. |
+
+### 12.2 Funcionalidades Identificadas no JavaScript
+
+A análise do arquivo `script.js` permitiu identificar:
+
+- Alternância entre modo claro e escuro.
+- Armazenamento da preferência de tema no `localStorage`.
+- Recuperação da preferência de tema.
+- Botão para voltar ao topo da página.
+- Validação de campos obrigatórios.
+- Validação do formato de e-mail.
+- Verificação do tamanho mínimo de texto.
+- Mensagens de erro próximas aos campos inválidos.
+- Utilização de eventos `click`, `scroll` e `submit`.
+
+### 12.3 Situação dos Testes
+
+A equipe informou que o site está funcionando corretamente.
+
+Entretanto, os resultados de validação HTML, acessibilidade e testes específicos deverão ser registrados com evidências para comprovação dos requisitos.
+
+A identificação de funcionalidades no código não substitui os testes práticos no navegador.
+
+
