@@ -23,6 +23,7 @@ Integrantes
 * Ryan Mangeth — RGM: 4834888
 * Leonardo Rodrigues — RGM: 47569590
 
+
 ---
 
 
@@ -36,47 +37,58 @@ A escolha do tema está relacionada à importância da educação ambiental e da
 
 O projeto também considera a acessibilidade digital, buscando proporcionar uma experiência de navegação compreensível e inclusiva para diferentes públicos.
 
-## 3. Objetivos
+---
 
-### 3.1 Objetivo Geral
 
-Desenvolver um site educativo e acessível sobre reciclagem, com o propósito de informar e conscientizar os usuários sobre a importância do descarte adequado de resíduos e da adoção de práticas sustentáveis no cotidiano.
+3. Objetivos
 
-### 3.2 Objetivos Específicos
+3.1 Objetivo Geral
 
-- Apresentar informações educativas sobre reciclagem, separação e descarte adequado de diferentes tipos de resíduos.
-- Divulgar projetos e iniciativas relacionados à sustentabilidade e à preservação ambiental.
-- Apresentar dados, informações e resultados relacionados aos impactos ambientais e sociais da reciclagem.
-- Desenvolver uma interface acessível, responsiva e de fácil navegação, considerando também as necessidades de pessoas com deficiência.
-- Disponibilizar conteúdos multimídia, notícias e materiais informativos que estimulem a conscientização e a participação dos usuários em práticas sustentáveis.
+Desenvolver um site educativo sobre reciclagem e sustentabilidade, utilizando tecnologias de desenvolvimento Front-End para promover a conscientização ambiental e incentivar o descarte adequado de resíduos.
 
-## 4. Público-Alvo
+3.2 Objetivos Específicos
 
-O EcoCiclo será destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental, oferecendo informações de forma simples, educativa e acessível.
+* Apresentar informações educativas sobre reciclagem e descarte correto.
+* Explicar a importância da separação dos resíduos.
+* Divulgar projetos e iniciativas ambientais.
+* Apresentar dados e informações sobre impactos ambientais e sociais.
+* Disponibilizar conteúdos multimídia e notícias.
+* Desenvolver uma interface organizada, acessível e responsiva.
+* Aplicar conhecimentos de HTML5, CSS3 e JavaScript.
+* Utilizar o GitHub para versionamento e colaboração.
+* Publicar o projeto na internet.
 
-### 4.1 Perfil do Público
+---
 
-O público-alvo será composto principalmente por:
+4. Público-Alvo
 
-- Estudantes interessados em educação ambiental;
-- Jovens e adultos que desejam aprender sobre reciclagem;
-- Famílias que buscam informações para realizar a separação correta de resíduos em suas residências;
-- Pessoas interessadas em práticas sustentáveis e consumo consciente;
-- Usuários que desejam conhecer projetos e iniciativas relacionados à reciclagem.
+O EcoCiclo é destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental.
 
-### 4.2 Faixa Etária
+4.1 Perfil do Público
 
-O site será direcionado principalmente a usuários a partir de 15 anos, podendo ser utilizado por pessoas de diferentes faixas etárias que tenham interesse pelo tema.
+O público-alvo inclui:
 
-### 4.3 Localização
+* Estudantes interessados em educação ambiental.
+* Jovens e adultos que desejam aprender sobre reciclagem.
+* Famílias que buscam informações sobre separação de resíduos.
+* Pessoas interessadas em consumo consciente.
+* Usuários que desejam conhecer iniciativas sustentáveis.
 
-O projeto será desenvolvido considerando inicialmente usuários do Brasil, utilizando informações e exemplos relacionados ao contexto brasileiro.
+4.2 Faixa Etária
 
-### 4.4 Necessidades Específicas
+O conteúdo foi planejado principalmente para usuários a partir de 15 anos, podendo ser acessado por pessoas de diferentes idades.
 
-O site será desenvolvido considerando diferentes necessidades de acesso, incluindo pessoas com deficiência visual, auditiva e motora. Para isso, serão aplicadas medidas de acessibilidade, como textos alternativos em imagens, contraste adequado, navegação por teclado, identificação dos campos de formulário e utilização de recursos de acessibilidade quando necessários.
+4.3 Localização
 
-Dessa forma, o EcoCiclo buscará oferecer uma experiência de navegação acessível, permitindo que diferentes usuários tenham acesso aos conteúdos relacionados à reciclagem e à sustentabilidade.
+O projeto considera inicialmente o público brasileiro, utilizando conteúdos relacionados à realidade ambiental do Brasil.
+
+4.4 Acessibilidade
+
+O projeto prevê medidas que facilitem o acesso de pessoas com diferentes necessidades, incluindo usuários com deficiência visual, auditiva ou motora.
+
+Entre os recursos considerados estão textos alternativos, contraste adequado, identificação de formulários e navegação por teclado.
+
+---
 
 ## 5. Escopo Funcional
 
