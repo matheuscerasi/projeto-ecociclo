@@ -27,7 +27,7 @@ Integrantes
 ---
 
 
-2. Contexto e Justificativa
+## 2. Contexto e Justificativa
 
 O descarte inadequado de resíduos representa um desafio ambiental e social, contribuindo para a poluição, o desperdício de materiais reutilizáveis e o aumento dos impactos ambientais.
 
@@ -40,7 +40,7 @@ O projeto também considera a acessibilidade digital, buscando proporcionar uma 
 ---
 
 
-3. Objetivos
+## 3. Objetivos
 
 3.1 Objetivo Geral
 
@@ -60,7 +60,7 @@ Desenvolver um site educativo sobre reciclagem e sustentabilidade, utilizando te
 
 ---
 
-4. Público-Alvo
+## 4. Público-Alvo
 
 O EcoCiclo é destinado a pessoas interessadas em sustentabilidade, reciclagem e preservação ambiental.
 
@@ -90,7 +90,7 @@ Entre os recursos considerados estão textos alternativos, contraste adequado, i
 
 ---
 
-5. Escopo Funcional
+## 5. Escopo Funcional
 
 O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para facilitar o acesso às informações.
 
@@ -311,49 +311,47 @@ O site apresentará conteúdos relacionados a:
 
 As imagens utilizadas na galeria deverão possuir legendas e informações sobre suas fontes, conforme previsto na estrutura da atividade.
 
-## 9. Tecnologias e Ferramentas
+## 9. Tecnologias Utilizadas
 
-O desenvolvimento do EcoCiclo utilizará tecnologias voltadas à criação de páginas web, priorizando uma estrutura simples, organizada e compatível com os requisitos da atividade.
+9.1 HTML5
 
-**Tecnologias principais:**
+Utilizado na estruturação das páginas, organização semântica dos conteúdos, criação de formulários e inclusão de elementos multimídia.
 
-- **HTML5:** utilizado para estruturar as páginas e organizar semanticamente os conteúdos.
-- **CSS3:** utilizado para desenvolver a identidade visual, layout, cores, tipografia, responsividade e estilos das páginas.
-- **JavaScript:** poderá ser utilizado quando necessário para adicionar interações ou funcionalidades ao site.
+9.2 CSS3
 
-**Ferramentas de desenvolvimento:**
+Utilizado na definição da identidade visual, cores, tipografia, espaçamentos, layouts e adaptação da interface para diferentes dispositivos.
 
-- **Visual Studio Code (VS Code):** utilizado como ambiente principal para criação e edição dos arquivos do projeto.
-- **Navegadores Web:** utilizados para visualizar e testar o funcionamento das páginas.
-- **W3C Validator:** utilizado para verificar a estrutura e identificar possíveis erros no código HTML.
-- **Ferramentas de controle de versão:** poderão ser utilizadas pela equipe para acompanhar alterações e facilitar o desenvolvimento colaborativo.
+9.3 JavaScript
 
-**Organização dos arquivos:**
+O JavaScript foi utilizado para implementar funcionalidades interativas no EcoCiclo, melhorando a experiência de navegação e a interação dos usuários com o site.
 
-O projeto seguirá uma estrutura organizada contendo:
+Funcionalidades implementadas no script.js:
 
-```text
-EcoCiclo/
-│
-├── index.html
-├── sobre.html
-├── projetos.html
-├── impacto.html
-├── acessibilidade.html
-├── galeria.html
-├── midia.html
-├── noticias.html
-├── contato.html
-├── orcamento_hospedagem.html
-│
-├── css/
-├── js/
-├── img/
-├── assets/
-└── docs/
-```
+* Modo escuro e claro: permite alternar a aparência do site por meio de um botão interativo.
+* Persistência com localStorage: armazena a preferência de tema do usuário e recupera essa configuração em acessos posteriores.
+* Botão voltar ao topo: permite retornar suavemente ao início da página.
+* Manipulação do DOM: cria elementos dinamicamente, modifica classes CSS e apresenta mensagens de validação.
+* Validação de formulários: verifica campos obrigatórios, formato de e-mail, tamanho mínimo de texto e caixas de seleção obrigatórias.
+* Mensagens de erro: apresenta avisos visuais próximos aos campos que não atendem aos critérios de preenchimento.
+* Eventos JavaScript: utiliza eventos como click, scroll e submit para controlar as interações.
+* Mensagem de boas-vindas: disponibiliza a função mostrarAviso() para exibir um alerta educativo.
 
-Essa organização segue a estrutura de pastas e arquivos indicada para a entrega do projeto.
+Essas funcionalidades demonstram a aplicação prática de conceitos de programação Front-End, manipulação do DOM, eventos e armazenamento local no navegador.
+
+
+### 9.4 Ferramentas
+
+| Ferramenta | Finalidade |
+|---|---|
+| **Visual Studio Code (VS Code)** | Ambiente de desenvolvimento e edição dos arquivos HTML, CSS e JavaScript. |
+| **Git** | Controle de versões e acompanhamento das alterações realizadas no projeto. |
+| **GitHub** | Armazenamento do repositório, colaboração entre integrantes e histórico de commits. |
+| **Netlify** | Hospedagem e publicação do site EcoCiclo na internet. |
+| **Navegadores Web** | Visualização e testes de funcionamento, navegação e responsividade. |
+| **W3C Validator** | Ferramenta prevista para validação da estrutura HTML e identificação de possíveis erros. |
+| **Canva** | Criação e organização dos slides utilizados na apresentação acadêmica. |
+
+---
 
 ## 10. Cronograma e Divisão de Tarefas
 
