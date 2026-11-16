@@ -402,77 +402,222 @@ O site utilizará práticas básicas de otimização para mecanismos de busca, i
 - Conteúdo relacionado ao tema de reciclagem e sustentabilidade;
 - Estrutura semântica utilizando elementos HTML5 apropriados.
 
+
 ## 7. Mapa do Site
 
-O site **EcoCiclo** será estruturado em 10 páginas principais, todas interligadas por meio de um menu de navegação presente nas páginas. A organização foi definida para facilitar o acesso às informações e permitir que o usuário encontre os conteúdos de forma simples e intuitiva.
+O **EcoCiclo** foi estruturado em **10 páginas HTML**, organizadas para facilitar a navegação e proporcionar uma experiência educativa sobre reciclagem, sustentabilidade e preservação ambiental.
 
-**Estrutura de navegação:**
+A arquitetura do site foi planejada para permitir que o visitante encontre informações de maneira simples, utilizando um menu principal compartilhado entre as páginas.
+
+### 7.1 Estrutura de Navegação
+
+O projeto apresenta uma navegação composta pelas seguintes páginas:
 
 ```text
-                         ECOCICLO
-                            │
-                            ▼
-                          INÍCIO
-                       (index.html)
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-     SOBRE              PROJETOS              IMPACTO
-       │                    │                    │
-       └────────────────────┼────────────────────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
- ACESSIBILIDADE          GALERIA                MÍDIA
-       │                    │                    │
-       └────────────────────┼────────────────────┘
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-              NOTÍCIAS              CONTATO
-                                       │
-                                       ▼
-                            ORÇAMENTO DE HOSPEDAGEM
+                         ♻️ ECOCICLO
+                              |
+                              |
+                         PÁGINA INICIAL
+                          index.html
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+        SOBRE              PROJETOS             IMPACTO
+     sobre.html         projetos.html        impacto.html
+          |                   |                   |
+          +-------------------+-------------------+
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+    ACESSIBILIDADE          GALERIA              MÍDIA
+ acessibilidade.html     galeria.html         midia.html
+          |                   |                   |
+          +-------------------+-------------------+
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+       NOTÍCIAS             CONTATO           HOSPEDAGEM
+     noticias.html        contato.html    orcamento_hospedagem.html
 ```
 
-**Páginas e seus objetivos:**
+**Observação:** o diagrama representa a organização das páginas, e não uma sequência obrigatória de navegação. O usuário pode acessar as diferentes seções diretamente pelo menu principal.
 
-1. **Início (`index.html`)**  
-   Apresentará o EcoCiclo, seu propósito, slogan e principais informações, além de direcionar o usuário para as demais páginas.
+### 7.2 Organização das Páginas
 
-2. **Sobre (`sobre.html`)**  
-   Apresentará a proposta do projeto, sua missão, visão e valores relacionados à reciclagem e à sustentabilidade.
+| Página | Arquivo HTML | Conteúdo principal |
+|---|---|---|
+| **Início** | `index.html` | Apresentação do EcoCiclo, slogan e acesso aos conteúdos |
+| **Sobre** | `sobre.html` | História, proposta e valores do projeto |
+| **Projetos** | `projetos.html` | Iniciativas sustentáveis e conscientização ambiental |
+| **Impacto** | `impacto.html` | Benefícios ambientais e sociais da reciclagem |
+| **Acessibilidade** | `acessibilidade.html` | Inclusão digital e acessibilidade |
+| **Galeria** | `galeria.html` | Conteúdos visuais sobre sustentabilidade |
+| **Mídia** | `midia.html` | Materiais educativos em diferentes formatos |
+| **Notícias** | `noticias.html` | Notícias e informações ambientais |
+| **Contato** | `contato.html` | Formulário demonstrativo e perguntas frequentes |
+| **Hospedagem** | `orcamento_hospedagem.html` | Informações sobre hospedagem e domínio |
 
-3. **Projetos (`projetos.html`)**  
-   Apresentará projetos e iniciativas relacionados à reciclagem e à conscientização ambiental.
+### 7.3 Descrição das Páginas
 
-4. **Impacto (`impacto.html`)**  
-   Apresentará informações, dados e resultados relacionados aos impactos ambientais e sociais da reciclagem.
+#### 7.3.1 Página Inicial
 
-5. **Acessibilidade (`acessibilidade.html`)**  
-   Explicará os recursos de acessibilidade utilizados no site e as medidas adotadas para facilitar a utilização por diferentes públicos.
+**Arquivo:** `index.html`
 
-6. **Galeria (`galeria.html`)**  
-   Apresentará imagens relacionadas à reciclagem, sustentabilidade e às iniciativas do EcoCiclo, acompanhadas de legendas e informações sobre suas fontes.
+A página inicial funciona como ponto de apresentação do EcoCiclo.
 
-7. **Mídia (`midia.html`)**  
-   Reunirá conteúdos multimídia, incluindo vídeo, áudio e conteúdo incorporado por meio de `<iframe>`, conforme solicitado na atividade.
+Seu destaque principal é o slogan:
 
-8. **Notícias (`noticias.html`)**  
-   Apresentará notícias e conteúdos informativos relacionados à reciclagem, sustentabilidade e preservação ambiental.
+> Seu descarte pode transformar o futuro.
 
-9. **Contato (`contato.html`)**  
-   Disponibilizará informações de contato e um formulário para comunicação com o usuário, utilizando recursos de validação do HTML5.
+A interface apresenta o símbolo da reciclagem, informações introdutórias e botões de navegação.
 
-10. **Orçamento de Hospedagem (`orcamento_hospedagem.html`)**  
-    Apresentará uma comparação entre opções de hospedagem e domínio, incluindo três opções de hospedagem e três opções de domínio, conforme solicitado na documentação do projeto.
+Entre os recursos observados estão:
 
-**Fluxo de navegação:**
+- Identidade visual baseada em tons de verde.
+- Botão **Conheça o projeto**.
+- Botão **Nossos projetos**.
+- Componente de áudio educativo.
+- Conteúdo introdutório sobre reciclagem.
 
-O usuário poderá acessar qualquer uma das páginas por meio do menu principal. Ao final das páginas, também poderão ser utilizados links internos para direcionar o visitante a conteúdos relacionados, mantendo uma navegação simples, intuitiva e consistente em todo o site.
+#### 7.3.2 Página Sobre
 
+**Arquivo:** `sobre.html`
+
+Apresenta a origem e a proposta educativa do EcoCiclo.
+
+A página explica a importância de compartilhar informações sobre reciclagem e incentivar práticas sustentáveis.
+
+Seu conteúdo destaca a conscientização ambiental e a participação da sociedade.
+
+#### 7.3.3 Página Projetos
+
+**Arquivo:** `projetos.html`
+
+Apresenta iniciativas relacionadas à reciclagem, educação ambiental e sustentabilidade.
+
+A proposta é demonstrar como ações individuais e coletivas podem contribuir para a preservação ambiental.
+
+A página utiliza textos educativos e seções organizadas para apresentar as iniciativas.
+
+#### 7.3.4 Página Impacto
+
+**Arquivo:** `impacto.html`
+
+Aborda os benefícios da reciclagem e do descarte adequado de resíduos.
+
+Entre os assuntos apresentados estão:
+
+- Preservação dos recursos naturais.
+- Redução dos impactos ambientais.
+- Reaproveitamento de materiais.
+- Benefícios sociais da reciclagem.
+- Importância da participação coletiva.
+
+#### 7.3.5 Página Acessibilidade
+
+**Arquivo:** `acessibilidade.html`
+
+Apresenta o compromisso do projeto com a inclusão digital.
+
+O conteúdo explica a importância de desenvolver interfaces que possam ser utilizadas por diferentes públicos.
+
+A página também aborda práticas de acessibilidade e a necessidade de tornar os conteúdos compreensíveis e acessíveis.
+
+#### 7.3.6 Página Galeria
+
+**Arquivo:** `galeria.html`
+
+Destina-se à apresentação de conteúdos visuais relacionados à sustentabilidade e à reciclagem.
+
+A galeria complementa os textos educativos, permitindo explorar o tema por meio de imagens e outros elementos visuais.
+
+#### 7.3.7 Página Mídia
+
+**Arquivo:** `midia.html`
+
+Apresenta a proposta de utilizar diferentes formatos de comunicação para apoiar a educação ambiental.
+
+O conteúdo aborda a utilização de vídeos, áudios e materiais educativos, tornando a aprendizagem mais dinâmica.
+
+#### 7.3.8 Página Notícias
+
+**Arquivo:** `noticias.html`
+
+Destina-se à divulgação de notícias e informações relacionadas ao meio ambiente.
+
+A página amplia o conteúdo educativo do EcoCiclo ao reunir assuntos ligados à reciclagem, sustentabilidade e preservação ambiental.
+
+#### 7.3.9 Página Contato
+
+**Arquivo:** `contato.html`
+
+Disponibiliza um formulário demonstrativo para interação com os visitantes.
+
+Entre seus elementos estão:
+
+- Campos para informações pessoais.
+- Campo de mensagem.
+- Consentimento obrigatório.
+- Validação de preenchimento.
+- Canais de contato apresentados na interface.
+- Seção de perguntas frequentes.
+
+O formulário possui finalidade acadêmica e não realiza o envio ou armazenamento das informações preenchidas.
+
+#### 7.3.10 Página Hospedagem
+
+**Arquivo:** `orcamento_hospedagem.html`
+
+Apresenta informações sobre os recursos necessários para publicar um site na internet.
+
+A página aborda:
+
+- Conceito de hospedagem.
+- Registro de domínio.
+- Publicação de sites estáticos.
+- Planejamento de custos.
+- Comparação de alternativas de hospedagem e domínio.
+
+O EcoCiclo está publicado na plataforma Netlify.
+
+### 7.4 Elementos Compartilhados
+
+As páginas utilizam elementos visuais e funcionais que contribuem para manter uma experiência consistente.
+
+| Elemento | Finalidade |
+|---|---|
+| **Cabeçalho** | Identificação do EcoCiclo |
+| **Menu principal** | Navegação entre as páginas |
+| **Identidade visual** | Padronização de cores e tipografia |
+| **Áudio educativo** | Alternativa de acesso ao conteúdo |
+| **Alternância de tema** | Personalização da aparência |
+| **Botão voltar ao topo** | Facilitar a navegação em páginas longas |
+| **Rodapé** | Organização de links e informações complementares |
+
+### 7.5 Fluxo de Navegação
+
+O usuário pode iniciar sua experiência pela página principal e acessar as demais áreas utilizando o menu superior.
+
+Um exemplo de percurso educativo é:
+
+**Início → Sobre → Projetos → Impacto → Acessibilidade → Galeria → Mídia → Notícias → Contato**
+
+A página de Hospedagem complementa a documentação técnica do projeto, apresentando informações sobre sua disponibilização na internet.
+
+Esse percurso é apenas ilustrativo. A navegação não exige que as páginas sejam acessadas em uma ordem específica.
+
+### 7.6 Endereço Público
+
+O EcoCiclo está disponível para acesso pela internet no seguinte endereço:
+
+**https://ecociclo-projeto.netlify.app/**
+
+A publicação permite que visitantes conheçam o projeto diretamente pelo navegador, sem necessidade de instalar ferramentas de desenvolvimento.
+
+---
 
 ## 8. Identidade Visual
 
