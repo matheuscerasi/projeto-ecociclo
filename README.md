@@ -90,63 +90,56 @@ Entre os recursos considerados estão textos alternativos, contraste adequado, i
 
 ---
 
-## 5. Escopo Funcional
+5. Escopo Funcional
 
-O site EcoCiclo será composto por 10 páginas HTML interligadas, permitindo que o usuário navegue entre os diferentes conteúdos por meio de um menu principal presente nas páginas do projeto.
+O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para facilitar o acesso às informações.
 
-### 5.1 Página Inicial – `index.html`
+Página	Arquivo	Finalidade
+Início	index.html	Apresentar o projeto e seus principais conteúdos
+Sobre	sobre.html	Explicar missão, visão, valores e proposta
+Projetos	projetos.html	Divulgar iniciativas sustentáveis
+Impacto	impacto.html	Apresentar dados e impactos da reciclagem
+Acessibilidade	acessibilidade.html	Informar sobre inclusão e acessibilidade
+Galeria	galeria.html	Exibir imagens relacionadas à sustentabilidade
+Mídia	midia.html	Disponibilizar conteúdos multimídia
+Notícias	noticias.html	Reunir informações e notícias ambientais
+Contato	contato.html	Disponibilizar um formulário de contato
+Orçamento	orcamento_hospedagem.html	Comparar alternativas de hospedagem e domínio
 
-A página inicial será responsável por apresentar o EcoCiclo, seu propósito e o tema da reciclagem. Será composta por uma apresentação do projeto, destaques dos principais conteúdos e links para as demais páginas do site.
+5.1 Navegação
 
-### 5.2 Sobre – `sobre.html`
+A navegação foi planejada para permitir o acesso às diferentes páginas por meio de links e menus.
 
-Apresentará a história do EcoCiclo, sua missão, visão e valores, explicando a finalidade do projeto e sua relação com a sustentabilidade e a conscientização ambiental.
+A organização busca proporcionar uma experiência simples, intuitiva e consistente.
 
-### 5.3 Projetos – `projetos.html`
+5.2 Formulário de Contato
 
-Apresentará projetos e iniciativas relacionados à reciclagem e à sustentabilidade, mostrando seus objetivos, formas de funcionamento e possíveis impactos ambientais e sociais.
+A página de contato foi planejada para permitir a interação dos usuários com o projeto.
 
-### 5.4 Impacto – `impacto.html`
+O arquivo script.js implementa validações em JavaScript, incluindo:
 
-Apresentará dados, tabelas e informações relacionadas à reciclagem, permitindo demonstrar os impactos ambientais e sociais associados à separação e ao reaproveitamento de resíduos.
+* Verificação de campos obrigatórios.
+* Validação do formato de e-mail.
+* Verificação da quantidade mínima de caracteres.
+* Validação de caixas de seleção obrigatórias.
+* Exibição de mensagens de erro próximas aos campos.
+* Bloqueio do envio quando existem erros de preenchimento.
 
-### 5.5 Acessibilidade – `acessibilidade.html`
+5.3 Recursos Multimídia
 
-Apresentará as medidas de acessibilidade utilizadas no desenvolvimento do site e informações sobre a importância da inclusão digital, destacando recursos destinados a facilitar o acesso de pessoas com deficiência.
+A página de mídia foi planejada para apresentar conteúdos relacionados à reciclagem utilizando recursos HTML5, como:
 
-### 5.6 Galeria – `galeria.html`
+* Vídeos.
+* Áudios.
+* Conteúdos incorporados por iframe.
 
-Disponibilizará uma galeria de imagens relacionadas à reciclagem, sustentabilidade e preservação ambiental. As imagens serão acompanhadas de legendas e indicação de suas respectivas fontes.
+5.4 Notícias e Projetos
 
-### 5.7 Mídia – `midia.html`
+As páginas de notícias e projetos têm como finalidade ampliar o acesso a informações sobre sustentabilidade e apresentar iniciativas que incentivem práticas ambientalmente responsáveis.
 
-Disponibilizará conteúdos multimídia relacionados ao tema do projeto, incluindo vídeo, áudio e conteúdo incorporado por meio de iframe.
 
-### 5.8 Notícias – `noticias.html`
+---
 
-Apresentará notícias, artigos e conteúdos informativos relacionados à reciclagem, sustentabilidade, preservação ambiental e iniciativas de impacto social.
-
-### 5.9 Contato – `contato.html`
-
-Apresentará dados fictícios de contato do EcoCiclo e um formulário para interação com os usuários. O formulário contará com validação utilizando recursos do HTML5, incluindo campos obrigatórios e diferentes tipos de entrada.
-
-### 5.10 Orçamento de Hospedagem – `orcamento_hospedagem.html`
-
-Apresentará um comparativo entre diferentes opções de hospedagem e domínio para o projeto, considerando informações como preço, recursos disponíveis e características dos serviços.
-
-### 5.11 Navegação
-
-Todas as páginas serão interligadas por meio de um sistema de navegação principal, permitindo que o usuário acesse as diferentes áreas do site de maneira simples e organizada.
-
-O menu principal terá links para as 10 páginas do projeto e será estruturado de forma consistente entre as páginas.
-
-### 5.12 Formulário
-
-O formulário da página de contato utilizará recursos de validação do HTML5, incluindo os atributos `required`, `email`, `tel`, `date`, `number` e `pattern`, além da utilização de elementos `<label>` associados aos respectivos campos.
-
-### 5.13 Recursos Multimídia
-
-O projeto utilizará os elementos HTML5 `<video>`, `<audio>` e `<iframe>` para disponibilizar diferentes formatos de conteúdo relacionados ao tema da reciclagem.
 
 ## 6. Escopo Não Funcional
 
