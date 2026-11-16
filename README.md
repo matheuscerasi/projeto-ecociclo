@@ -12,8 +12,8 @@ Site publicado: EcoCiclo — Netlify
 
 Repositório: GitHub — Projeto EcoCiclo
 
-Apresentação: Slides do EcoCiclo — CanvaLink do site: https://ecociclo-projeto.netlify.app <br>
-Apresentação de Slides: https://canva.link/zm2mutvx0y2mpam
+Apresentação: Slides do EcoCiclo — Link do site: https://ecociclo-projeto.netlify.app <br>
+Apresentação de Slides: https://canva.link/4v3453bjc3lumua
 
 Integrantes
 
