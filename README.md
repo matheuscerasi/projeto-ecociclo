@@ -274,45 +274,33 @@ O site **EcoCiclo** será estruturado em 10 páginas principais, todas interliga
 
 O usuário poderá acessar qualquer uma das páginas por meio do menu principal. Ao final das páginas, também poderão ser utilizados links internos para direcionar o visitante a conteúdos relacionados, mantendo uma navegação simples, intuitiva e consistente em todo o site.
 
-## 8. Conteúdo e Identidade Visual
 
-O site **EcoCiclo** terá uma identidade visual relacionada à sustentabilidade, reciclagem e preservação ambiental. O objetivo é transmitir uma imagem moderna, educativa, acessível e agradável para os usuários.
+## 8. Identidade Visual
 
-**Nome do projeto:**  
-EcoCiclo
+A identidade visual do **EcoCiclo** foi desenvolvida para representar sustentabilidade, preservação ambiental e conscientização sobre a reciclagem.
 
-**Slogan:**  
-"Seu descarte pode transformar o futuro."
+8.1 Paleta de Cores
 
-**Tom de comunicação:**  
-A comunicação será educativa, clara, objetiva e acessível. Os textos serão desenvolvidos utilizando uma linguagem simples, buscando facilitar a compreensão das informações por diferentes públicos.
+| Cor | Significado |
+|---|---|
+| **Verde** | Natureza, sustentabilidade e renovação. |
+| **Azul** | Equilíbrio e responsabilidade ambiental. |
+| **Branco** | Organização, simplicidade e legibilidade. |
+| **Tons terrosos** | Referência à natureza e ao meio ambiente. |
 
-**Paleta de cores:**
+8.2 Tipografia
 
-- **Verde:** será a cor principal, representando natureza, sustentabilidade e renovação.
-- **Azul:** será utilizado como cor complementar, representando equilíbrio e responsabilidade.
-- **Branco:** será utilizado para proporcionar maior organização e legibilidade.
-- **Tons terrosos:** poderão ser utilizados em pequenos detalhes, fazendo referência à natureza e ao meio ambiente.
+O projeto prioriza fontes modernas, simples e de fácil leitura, buscando proporcionar uma experiência visual organizada e acessível.
 
-**Tipografia:**  
-Serão utilizadas fontes modernas, simples e de fácil leitura, mantendo tamanhos e contrastes adequados para facilitar a acessibilidade.
+8.3 Slogan
 
-**Logo:**  
-A identidade visual utilizará o nome **EcoCiclo** acompanhado de um elemento relacionado à reciclagem, como o símbolo de reciclagem e/ou uma folha.
+**"Seu descarte pode transformar o futuro."**
 
-**Conteúdo:**  
-O site apresentará conteúdos relacionados a:
+8.4 Comunicação
 
-- Reciclagem;
-- Separação e descarte correto de resíduos;
-- Sustentabilidade;
-- Preservação ambiental;
-- Projetos e iniciativas sustentáveis;
-- Impactos ambientais e sociais;
-- Acessibilidade;
-- Notícias e conteúdos informativos.
+A linguagem utilizada no site busca ser educativa, clara, objetiva e acessível, facilitando a compreensão dos conteúdos por diferentes públicos.
 
-As imagens utilizadas na galeria deverão possuir legendas e informações sobre suas fontes, conforme previsto na estrutura da atividade.
+---
 
 ## 9. Tecnologias Utilizadas
 
@@ -392,3 +380,94 @@ O progresso poderá ser acompanhado por meio de reuniões da equipe e ferramenta
 
 **Cronograma:**  
 As datas específicas de desenvolvimento e entrega serão definidas pela equipe de acordo com o prazo estabelecido pelo professor e disponibilizado no Blackboard.
+
+---
+
+## 11. Evolução do MVP para a Segunda Entrega
+
+O EcoCiclo foi organizado em etapas de desenvolvimento, iniciando com a definição do escopo e a elaboração de sua estrutura inicial.
+
+Na segunda entrega, o objetivo é apresentar a versão funcional do site e demonstrar o atendimento aos requisitos estabelecidos pela disciplina.
+
+### 11.1 Feedback da Primeira Entrega
+
+Até o momento da organização da segunda entrega, a equipe não havia recebido uma devolutiva formal do professor referente ao MVP.
+
+Diante disso, a revisão do projeto foi orientada pelos requisitos disponibilizados para a segunda entrega.
+
+### 11.2 Revisão do Projeto
+
+A revisão contempla:
+
+- Funcionamento das páginas.
+- Navegação entre os conteúdos.
+- Recursos HTML5.
+- Responsividade.
+- Funcionalidades JavaScript.
+- Acessibilidade.
+- Publicação do site.
+- Documentação.
+- Histórico do GitHub.
+
+### 11.3 Preservação da Versão Funcional
+
+Durante a preparação da entrega, a equipe informou que o site estava funcionando corretamente.
+
+Por esse motivo, foi priorizada a organização da documentação, evitando alterações no código sem necessidade comprovada.
+
+### 11.4 Registro de Melhorias
+
+As melhorias efetivamente realizadas entre o MVP e a versão final deverão ser documentadas com:
+
+- Descrição da alteração.
+- Justificativa.
+- Data.
+- Responsável.
+- Evidência ou commit correspondente.
+
+Não serão atribuídas ao professor correções que não tenham sido formalmente recebidas.
+
+---
+
+
+## 12. Testes e Validação
+
+A validação do EcoCiclo considera os requisitos técnicos estabelecidos para a segunda entrega da disciplina.
+
+### 12.1 Critérios de Verificação
+
+| Verificação | Critério |
+|---|---|
+| **Navegação** | Funcionamento dos links entre as páginas. |
+| **HTML5** | Verificação da estrutura pelo W3C Validator. |
+| **Responsividade** | Adaptação da interface a diferentes tamanhos de tela. |
+| **Formulário** | Validação dos campos e exibição de mensagens de erro. |
+| **JavaScript** | Funcionamento dos eventos e interações com o DOM. |
+| **localStorage** | Armazenamento e recuperação da preferência de tema. |
+| **Acessibilidade** | Contraste, navegação por teclado e textos alternativos. |
+| **Publicação** | Acesso ao site por meio de HTTPS. |
+| **GitHub** | Histórico de commits e colaboração entre integrantes. |
+
+### 12.2 Funcionalidades Identificadas no JavaScript
+
+A análise do arquivo `script.js` permitiu identificar:
+
+- Alternância entre modo claro e escuro.
+- Armazenamento da preferência de tema no `localStorage`.
+- Recuperação da preferência de tema.
+- Botão para voltar ao topo da página.
+- Validação de campos obrigatórios.
+- Validação do formato de e-mail.
+- Verificação do tamanho mínimo de texto.
+- Mensagens de erro próximas aos campos inválidos.
+- Utilização de eventos `click`, `scroll` e `submit`.
+
+### 12.3 Situação dos Testes
+
+A equipe informou que o site está funcionando corretamente.
+
+Entretanto, os resultados de validação HTML, acessibilidade e testes específicos deverão ser registrados com evidências para comprovação dos requisitos.
+
+A identificação de funcionalidades no código não substitui os testes práticos no navegador.
+
+
