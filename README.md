@@ -383,58 +383,11 @@ As datas específicas de desenvolvimento e entrega serão definidas pela equipe 
 
 ---
 
-## 11. Evolução do MVP para a Segunda Entrega
-
-O EcoCiclo foi organizado em etapas de desenvolvimento, iniciando com a definição do escopo e a elaboração de sua estrutura inicial.
-
-Na segunda entrega, o objetivo é apresentar a versão funcional do site e demonstrar o atendimento aos requisitos estabelecidos pela disciplina.
-
-### 11.1 Feedback da Primeira Entrega
-
-Até o momento da organização da segunda entrega, a equipe não havia recebido uma devolutiva formal do professor referente ao MVP.
-
-Diante disso, a revisão do projeto foi orientada pelos requisitos disponibilizados para a segunda entrega.
-
-### 11.2 Revisão do Projeto
-
-A revisão contempla:
-
-- Funcionamento das páginas.
-- Navegação entre os conteúdos.
-- Recursos HTML5.
-- Responsividade.
-- Funcionalidades JavaScript.
-- Acessibilidade.
-- Publicação do site.
-- Documentação.
-- Histórico do GitHub.
-
-### 11.3 Preservação da Versão Funcional
-
-Durante a preparação da entrega, a equipe informou que o site estava funcionando corretamente.
-
-Por esse motivo, foi priorizada a organização da documentação, evitando alterações no código sem necessidade comprovada.
-
-### 11.4 Registro de Melhorias
-
-As melhorias efetivamente realizadas entre o MVP e a versão final deverão ser documentadas com:
-
-- Descrição da alteração.
-- Justificativa.
-- Data.
-- Responsável.
-- Evidência ou commit correspondente.
-
-Não serão atribuídas ao professor correções que não tenham sido formalmente recebidas.
-
----
-
-
-## 12. Testes e Validação
+## 11. Testes e Validação
 
 A validação do EcoCiclo considera os requisitos técnicos estabelecidos para a segunda entrega da disciplina.
 
-### 12.1 Critérios de Verificação
+11.1 Critérios de Verificação
 
 | Verificação | Critério |
 |---|---|
@@ -448,7 +401,7 @@ A validação do EcoCiclo considera os requisitos técnicos estabelecidos para a
 | **Publicação** | Acesso ao site por meio de HTTPS. |
 | **GitHub** | Histórico de commits e colaboração entre integrantes. |
 
-### 12.2 Funcionalidades Identificadas no JavaScript
+11.2 Funcionalidades Identificadas no JavaScript
 
 A análise do arquivo `script.js` permitiu identificar:
 
@@ -462,7 +415,7 @@ A análise do arquivo `script.js` permitiu identificar:
 - Mensagens de erro próximas aos campos inválidos.
 - Utilização de eventos `click`, `scroll` e `submit`.
 
-### 12.3 Situação dos Testes
+11.3 Situação dos Testes
 
 A equipe informou que o site está funcionando corretamente.
 
