@@ -1,4 +1,4 @@
-z♻️ EcoCiclo
+♻️ EcoCiclo
 
 Seu descarte pode transformar o futuro.
 
@@ -15,16 +15,26 @@ Repositório: GitHub — Projeto EcoCiclo
 Apresentação: Slides do EcoCiclo — CanvaLink do site: https://ecociclo-projeto.netlify.app <br>
 Apresentação de Slides: https://canva.link/zm2mutvx0y2mpam
 
+Integrantes
 
-## 2. Contexto e Justificativa
+* Matheus Cerasi — RGM: 47495821
+* Eduardo Correa — RGM: 47674245
+* Igor Hideki — RGM: 47658673
+* Ryan Mangeth — RGM: 4834888
+* Leonardo Rodrigues — RGM: 47569590
 
-O projeto EcoCiclo foi desenvolvido com o objetivo de abordar a questão da reciclagem e do descarte adequado de resíduos, promovendo a conscientização ambiental e incentivando práticas mais responsáveis no cotidiano da população.
+---
 
-O descarte inadequado de resíduos pode contribuir para problemas ambientais e sociais, tornando necessária a disseminação de informações que auxiliem as pessoas a compreenderem a importância da separação e do encaminhamento correto dos materiais recicláveis. Nesse contexto, o site será desenvolvido como uma ferramenta digital de caráter educativo e informativo, reunindo conteúdos sobre reciclagem, sustentabilidade, projetos ambientais, impactos do descarte de resíduos e formas de participação da sociedade.
 
-A escolha do tema está diretamente relacionada aos conceitos de sustentabilidade e impacto social, uma vez que o projeto busca incentivar atitudes que contribuam para a redução dos impactos ambientais e para a construção de uma maior consciência sobre a responsabilidade individual e coletiva em relação aos resíduos produzidos.
+2. Contexto e Justificativa
 
-Além disso, o projeto terá como preocupação a acessibilidade digital, buscando disponibilizar as informações de maneira adequada para diferentes usuários, incluindo pessoas com deficiência. Dessa forma, o EcoCiclo pretende unir educação ambiental, inclusão e tecnologia em uma plataforma acessível e informativa.
+O descarte inadequado de resíduos representa um desafio ambiental e social, contribuindo para a poluição, o desperdício de materiais reutilizáveis e o aumento dos impactos ambientais.
+
+Diante desse cenário, o EcoCiclo foi idealizado como uma ferramenta digital educativa, com o propósito de disponibilizar informações sobre reciclagem, separação de resíduos, preservação ambiental e práticas sustentáveis.
+
+A escolha do tema está relacionada à importância da educação ambiental e da participação da sociedade na construção de hábitos mais responsáveis.
+
+O projeto também considera a acessibilidade digital, buscando proporcionar uma experiência de navegação compreensível e inclusiva para diferentes públicos.
 
 ## 3. Objetivos
 
