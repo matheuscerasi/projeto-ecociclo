@@ -188,59 +188,160 @@ Entre os recursos considerados estão textos alternativos, contraste adequado, i
 
 ---
 
+
 ## 5. Escopo Funcional
 
-O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para facilitar o acesso às informações.
+O **EcoCiclo** é uma plataforma educativa composta por **10 páginas HTML interligadas**, desenvolvidas para apresentar informações sobre reciclagem, sustentabilidade, descarte consciente e preservação ambiental.
 
+A organização do site busca proporcionar uma navegação intuitiva, permitindo que os visitantes acessem conteúdos educativos, conheçam iniciativas ambientais e interajam com os recursos disponíveis.
+
+Além das páginas informativas, o projeto utiliza recursos de **HTML5, CSS3 e JavaScript** para oferecer funcionalidades interativas e melhorar a experiência de navegação.
+
+### 5.1 Estrutura das Páginas
 
 | Página | Arquivo | Finalidade |
 |---|---|---|
-| Início | `index.html` | Apresentar o projeto e seus principais conteúdos |
-| Sobre | `sobre.html` | Explicar missão, visão, valores e proposta |
-| Projetos | `projetos.html` | Divulgar iniciativas sustentáveis |
-| Impacto | `impacto.html` | Apresentar dados e impactos da reciclagem |
-| Acessibilidade | `acessibilidade.html` | Informar sobre inclusão e acessibilidade |
-| Galeria | `galeria.html` | Exibir imagens relacionadas à sustentabilidade |
-| Mídia | `midia.html` | Disponibilizar conteúdos multimídia |
-| Notícias | `noticias.html` | Reunir informações e notícias ambientais |
-| Contato | `contato.html` | Disponibilizar um formulário de contato |
-| Orçamento | `orcamento_hospedagem.html` | Comparar alternativas de hospedagem e domínio |
+| **Início** | `index.html` | Apresentar o EcoCiclo, seu slogan e os principais conteúdos. |
+| **Sobre** | `sobre.html` | Explicar a história, a proposta e os valores do projeto. |
+| **Projetos** | `projetos.html` | Divulgar iniciativas sustentáveis e ações ambientais. |
+| **Impacto** | `impacto.html` | Apresentar a importância e os benefícios da reciclagem. |
+| **Acessibilidade** | `acessibilidade.html` | Abordar a inclusão digital e os recursos de acessibilidade. |
+| **Galeria** | `galeria.html` | Disponibilizar conteúdos visuais relacionados à sustentabilidade. |
+| **Mídia** | `midia.html` | Apresentar conteúdos educativos em diferentes formatos. |
+| **Notícias** | `noticias.html` | Reunir notícias e informações sobre questões ambientais. |
+| **Contato** | `contato.html` | Disponibilizar formulário demonstrativo, canais de contato e perguntas frequentes. |
+| **Hospedagem** | `orcamento_hospedagem.html` | Apresentar informações e comparações sobre hospedagem e domínio. |
 
+### 5.2 Navegação e Interface
 
-### 5.1 Navegação
+O site apresenta um menu de navegação compartilhado entre as páginas, permitindo o acesso às principais áreas do EcoCiclo.
 
-A navegação foi planejada para permitir o acesso às diferentes páginas por meio de links e menus.
+Entre os recursos visuais e de navegação identificados estão:
 
-A organização busca proporcionar uma experiência simples, intuitiva e consistente.
+- Identidade visual baseada em tons de verde.
+- Menu superior com indicação da página selecionada.
+- Botões de navegação entre conteúdos relacionados.
+- Organização das informações em seções e cartões.
+- Layout adaptável a diferentes tamanhos de tela.
+- Botão flutuante para retornar ao início da página.
+- Alternância entre modos claro e escuro.
 
-### 5.2 Formulário de Contato
+A interface busca manter um padrão visual consistente, facilitando a identificação dos elementos e a utilização do site.
 
-A página de contato foi planejada para permitir a interação dos usuários com o projeto.
+### 5.3 Alternância entre Modo Claro e Escuro
 
-O arquivo script.js implementa validações em JavaScript, incluindo:
+O EcoCiclo disponibiliza um recurso de personalização visual que permite alternar entre dois temas:
 
-* Verificação de campos obrigatórios.
-* Validação do formato de e-mail.
-* Verificação da quantidade mínima de caracteres.
-* Validação de caixas de seleção obrigatórias.
-* Exibição de mensagens de erro próximas aos campos.
-* Bloqueio do envio quando existem erros de preenchimento.
+- **Modo claro:** utiliza fundos claros e elementos em tons de verde.
+- **Modo escuro:** utiliza fundos escuros, textos claros e destaques em verde.
 
-### 5.3 Recursos Multimídia
+A alternância é controlada por JavaScript, por meio de um botão interativo.
 
-A página de mídia foi planejada para apresentar conteúdos relacionados à reciclagem utilizando recursos HTML5, como:
+O projeto também utiliza `localStorage` para armazenar a preferência de tema do usuário, permitindo recuperá-la em acessos posteriores.
 
-* Vídeos.
-* Áudios.
-* Conteúdos incorporados por iframe.
+### 5.4 Recursos de Áudio Educativo
 
-### 5.4 Notícias e Projetos
+As páginas apresentam um componente identificado como **"Ouça esta página"**, destinado à reprodução de resumos em áudio.
 
-As páginas de notícias e projetos têm como finalidade ampliar o acesso a informações sobre sustentabilidade e apresentar iniciativas que incentivem práticas ambientalmente responsáveis.
+O componente possui controles de reprodução disponibilizados pelo navegador, incluindo:
 
+- Iniciar e pausar a reprodução.
+- Acompanhar o progresso do áudio.
+- Ajustar o volume.
+- Utilizar os controles nativos do player.
+
+Esse recurso foi incluído como uma alternativa de acesso ao conteúdo, contribuindo para a proposta de inclusão digital do EcoCiclo.
+
+**Observação:** a presença dos controles foi identificada nas capturas de tela. O carregamento e a reprodução de todos os arquivos de áudio ainda devem ser verificados individualmente.
+
+### 5.5 Formulário de Contato
+
+A página `contato.html` apresenta um formulário demonstrativo destinado à interação dos visitantes com o projeto.
+
+Entre os campos identificados estão:
+
+- Nome completo.
+- Endereço de e-mail.
+- Telefone.
+- Data de nascimento.
+- Quantidade de moradores na residência.
+- Campo para escrever uma mensagem.
+- Caixa de seleção para consentimento.
+
+O formulário utiliza validações implementadas em JavaScript, incluindo:
+
+1. Verificação de campos obrigatórios.
+2. Validação do formato de e-mail.
+3. Verificação da quantidade mínima de caracteres.
+4. Validação de caixas de seleção obrigatórias.
+5. Exibição de mensagens de erro próximas aos campos.
+6. Bloqueio do envio quando existem informações inválidas.
+
+**Importante:** o formulário possui finalidade demonstrativa. Conforme informado na própria página, as informações preenchidas não são enviadas nem armazenadas.
+
+### 5.6 Perguntas Frequentes (FAQ)
+
+A página de contato também apresenta uma seção de **Perguntas Frequentes**, organizada por meio de elementos expansíveis.
+
+Entre os assuntos abordados estão:
+
+- Prazo de resposta às mensagens.
+- Sugestões de novos temas para o site.
+- Comunicação de barreiras de acessibilidade.
+- Informações sobre coleta de resíduos.
+
+A organização permite que o visitante visualize as perguntas e expanda o conteúdo de acordo com seu interesse.
+
+### 5.7 Conteúdos Multimídia
+
+A página `midia.html` foi planejada para disponibilizar materiais educativos em diferentes formatos.
+
+O escopo contempla recursos como:
+
+- Vídeos educativos.
+- Conteúdos em áudio.
+- Materiais visuais.
+- Conteúdos incorporados por meio de `iframe`.
+
+A utilização desses formatos busca ampliar as possibilidades de aprendizagem e tornar a apresentação das informações mais dinâmica.
+
+### 5.8 Projetos e Conscientização Ambiental
+
+As páginas **Projetos** e **Impacto** apresentam conteúdos relacionados à sustentabilidade e à importância da reciclagem.
+
+A página de Projetos aborda iniciativas ambientais e incentiva a participação coletiva em ações sustentáveis.
+
+A página de Impacto apresenta explicações sobre os benefícios ambientais e sociais da reciclagem, destacando a preservação de recursos naturais e a redução dos impactos do descarte inadequado.
+
+### 5.9 Responsividade
+
+O EcoCiclo foi desenvolvido considerando sua utilização em diferentes dispositivos, incluindo computadores, tablets e smartphones.
+
+Na visualização mobile, foram observados:
+
+- Organização vertical do conteúdo.
+- Adaptação das seções à largura da tela.
+- Exibição dos controles de áudio.
+- Disponibilidade do botão de alternância de tema.
+- Presença de botões flutuantes de navegação.
+
+A responsividade deverá ser complementada por testes em diferentes resoluções para identificar possíveis problemas de navegação, sobreposição ou legibilidade.
+
+### 5.10 Limites do Escopo
+
+O EcoCiclo possui finalidade acadêmica e educativa.
+
+O projeto não contempla, nesta versão:
+
+- Sistema de autenticação de usuários.
+- Banco de dados para armazenamento de mensagens.
+- Envio real de mensagens pelo formulário demonstrativo.
+- Plataforma de comércio eletrônico.
+- Sistema operacional de coleta ou transporte de resíduos.
+
+O foco principal está na aplicação de conceitos de desenvolvimento Front-End e na divulgação de informações sobre sustentabilidade.
 
 ---
-
 
 ## 6. Escopo Não Funcional
 
