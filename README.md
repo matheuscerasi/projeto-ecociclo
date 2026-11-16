@@ -94,17 +94,20 @@ Entre os recursos considerados estão textos alternativos, contraste adequado, i
 
 O EcoCiclo foi planejado com 10 páginas HTML interligadas, organizadas para facilitar o acesso às informações.
 
-Página	Arquivo	Finalidade
-Início	index.html	Apresentar o projeto e seus principais conteúdos
-Sobre	sobre.html	Explicar missão, visão, valores e proposta
-Projetos	projetos.html	Divulgar iniciativas sustentáveis
-Impacto	impacto.html	Apresentar dados e impactos da reciclagem
-Acessibilidade	acessibilidade.html	Informar sobre inclusão e acessibilidade
-Galeria	galeria.html	Exibir imagens relacionadas à sustentabilidade
-Mídia	midia.html	Disponibilizar conteúdos multimídia
-Notícias	noticias.html	Reunir informações e notícias ambientais
-Contato	contato.html	Disponibilizar um formulário de contato
-Orçamento	orcamento_hospedagem.html	Comparar alternativas de hospedagem e domínio
+
+| Página | Arquivo | Finalidade |
+|---|---|---|
+| Início | `index.html` | Apresentar o projeto e seus principais conteúdos |
+| Sobre | `sobre.html` | Explicar missão, visão, valores e proposta |
+| Projetos | `projetos.html` | Divulgar iniciativas sustentáveis |
+| Impacto | `impacto.html` | Apresentar dados e impactos da reciclagem |
+| Acessibilidade | `acessibilidade.html` | Informar sobre inclusão e acessibilidade |
+| Galeria | `galeria.html` | Exibir imagens relacionadas à sustentabilidade |
+| Mídia | `midia.html` | Disponibilizar conteúdos multimídia |
+| Notícias | `noticias.html` | Reunir informações e notícias ambientais |
+| Contato | `contato.html` | Disponibilizar um formulário de contato |
+| Orçamento | `orcamento_hospedagem.html` | Comparar alternativas de hospedagem e domínio |
+
 
 5.1 Navegação
 
