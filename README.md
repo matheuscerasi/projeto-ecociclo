@@ -65,7 +65,7 @@ A proposta do EcoCiclo é demonstrar como a tecnologia pode contribuir para a ed
 | **Matheus Cerasi** | 47495821 |
 | **Eduardo Correa** | 47674245 |
 | **Igor Hideki** | 47658673 |
-| **Ryan Mangeth** | 4834888 |
+| **Ryan Mangeth** | 48348881 |
 | **Leonardo Rodrigues** | 47569590 |
 
 ### 1.3 Proposta do EcoCiclo
