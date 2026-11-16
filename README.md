@@ -817,45 +817,223 @@ A identidade visual e a linguagem textual trabalham em conjunto para reforçar a
 
 ---
 
+
 ## 9. Tecnologias Utilizadas
 
-9.1 HTML5
+O **EcoCiclo** foi desenvolvido utilizando tecnologias fundamentais do desenvolvimento Front-End, responsáveis pela estruturação das páginas, estilização da interface e implementação de funcionalidades interativas.
 
-Utilizado na estruturação das páginas, organização semântica dos conteúdos, criação de formulários e inclusão de elementos multimídia.
+O projeto utiliza **HTML5, CSS3 e JavaScript**, além de ferramentas de versionamento, publicação e organização do desenvolvimento.
 
-9.2 CSS3
+### 9.1 HTML5 — Estrutura e Conteúdo
 
-Utilizado na definição da identidade visual, cores, tipografia, espaçamentos, layouts e adaptação da interface para diferentes dispositivos.
+O HTML5 é responsável pela estruturação e organização das informações apresentadas nas páginas do EcoCiclo.
 
-9.3 JavaScript
+O projeto é composto por 10 arquivos HTML, que representam as diferentes seções do site.
 
-O JavaScript foi utilizado para implementar funcionalidades interativas no EcoCiclo, melhorando a experiência de navegação e a interação dos usuários com o site.
+Entre as aplicações do HTML5 no projeto estão:
 
-Funcionalidades implementadas no script.js:
+- Estruturação de cabeçalhos e rodapés.
+- Criação de menus de navegação.
+- Organização de títulos e parágrafos.
+- Inserção de imagens e elementos multimídia.
+- Construção do formulário de contato.
+- Criação de links internos e externos.
+- Utilização de elementos semânticos.
+- Organização de conteúdos educativos.
 
-* Modo escuro e claro: permite alternar a aparência do site por meio de um botão interativo.
-* Persistência com localStorage: armazena a preferência de tema do usuário e recupera essa configuração em acessos posteriores.
-* Botão voltar ao topo: permite retornar suavemente ao início da página.
-* Manipulação do DOM: cria elementos dinamicamente, modifica classes CSS e apresenta mensagens de validação.
-* Validação de formulários: verifica campos obrigatórios, formato de e-mail, tamanho mínimo de texto e caixas de seleção obrigatórias.
-* Mensagens de erro: apresenta avisos visuais próximos aos campos que não atendem aos critérios de preenchimento.
-* Eventos JavaScript: utiliza eventos como click, scroll e submit para controlar as interações.
-* Mensagem de boas-vindas: disponibiliza a função mostrarAviso() para exibir um alerta educativo.
+A utilização do HTML5 permite separar o conteúdo da apresentação visual, facilitando a manutenção e a evolução do projeto.
 
-Essas funcionalidades demonstram a aplicação prática de conceitos de programação Front-End, manipulação do DOM, eventos e armazenamento local no navegador.
+### 9.2 CSS3 — Estilização e Responsividade
 
+O CSS3 é responsável pela aparência visual do EcoCiclo.
 
-### 9.4 Ferramentas
+Sua utilização permite definir cores, tipografia, espaçamentos, alinhamentos, dimensões e comportamentos visuais dos componentes.
+
+Entre suas aplicações estão:
+
+- Definição da paleta de cores.
+- Estilização do cabeçalho e do menu.
+- Organização de cartões informativos.
+- Personalização de botões e formulários.
+- Adaptação visual dos modos claro e escuro.
+- Ajustes para diferentes tamanhos de tela.
+- Definição de espaçamentos e alinhamentos.
+- Destaque visual dos elementos interativos.
+
+#### 9.2.1 Layout Responsivo
+
+A responsividade busca permitir que o site seja utilizado em computadores, tablets e smartphones.
+
+O CSS é responsável pelos ajustes visuais necessários para adaptar os conteúdos ao espaço disponível.
+
+A versão mobile foi observada por meio de uma gravação de navegação, mas ainda são necessários testes complementares em diferentes resoluções.
+
+#### 9.2.2 Personalização de Temas
+
+O projeto apresenta duas opções de aparência:
+
+- Modo claro.
+- Modo escuro.
+
+Os estilos CSS são utilizados para definir a apresentação visual correspondente a cada tema, enquanto o JavaScript controla a alternância.
+
+### 9.3 JavaScript — Interatividade
+
+O JavaScript é responsável pelas funcionalidades dinâmicas do EcoCiclo.
+
+Sua utilização permite responder às ações dos usuários, modificar elementos da interface e realizar validações.
+
+#### 9.3.1 Manipulação do DOM
+
+O **Document Object Model (DOM)** representa a estrutura dos elementos HTML de uma página.
+
+O JavaScript permite acessar e modificar esses elementos durante a utilização do site.
+
+No EcoCiclo, esse recurso está relacionado a funcionalidades como:
+
+- Alteração da aparência da interface.
+- Exibição de mensagens de validação.
+- Atualização de elementos interativos.
+- Controle de comportamentos visuais.
+
+#### 9.3.2 Eventos
+
+Os eventos permitem executar ações em resposta às interações dos usuários.
+
+Entre os exemplos utilizados no contexto do projeto estão:
+
+- Cliques em botões.
+- Alternância de tema.
+- Interação com o formulário.
+- Validação de campos.
+- Ações relacionadas à navegação.
+
+A utilização de eventos contribui para tornar a interface mais dinâmica e funcional.
+
+#### 9.3.3 Armazenamento Local
+
+O EcoCiclo utiliza a API `localStorage` para armazenar a preferência de tema do usuário.
+
+O funcionamento previsto é:
+
+1. O usuário seleciona o modo claro ou escuro.
+2. O JavaScript atualiza a aparência da página.
+3. A preferência é armazenada no navegador.
+4. Em um acesso posterior, a configuração pode ser recuperada.
+
+Esse recurso permite personalizar a experiência sem a necessidade de um banco de dados.
+
+#### 9.3.4 Validação de Formulários
+
+A página de contato utiliza JavaScript para verificar informações preenchidas pelo usuário.
+
+Entre as validações documentadas estão:
+
+- Campos obrigatórios.
+- Formato do endereço de e-mail.
+- Quantidade mínima de caracteres.
+- Confirmação de caixas de seleção obrigatórias.
+- Exibição de mensagens de erro.
+- Impedimento do envio quando os dados são inválidos.
+
+O formulário possui finalidade demonstrativa e não realiza o envio ou armazenamento das informações preenchidas.
+
+#### 9.3.5 Botão Voltar ao Topo
+
+O projeto apresenta um botão flutuante destinado a facilitar o retorno ao início da página.
+
+Esse recurso contribui para a navegação em páginas com conteúdos extensos.
+
+### 9.4 Ferramentas de Desenvolvimento
+
+Além das linguagens utilizadas na implementação, o projeto conta com ferramentas de apoio ao desenvolvimento, versionamento e publicação.
 
 | Ferramenta | Finalidade |
 |---|---|
-| **Visual Studio Code (VS Code)** | Ambiente de desenvolvimento e edição dos arquivos HTML, CSS e JavaScript. |
-| **Git** | Controle de versões e acompanhamento das alterações realizadas no projeto. |
-| **GitHub** | Armazenamento do repositório, colaboração entre integrantes e histórico de commits. |
-| **Netlify** | Hospedagem e publicação do site EcoCiclo na internet. |
-| **Navegadores Web** | Visualização e testes de funcionamento, navegação e responsividade. |
-| **W3C Validator** | Ferramenta prevista para validação da estrutura HTML e identificação de possíveis erros. |
-| **Canva** | Criação e organização dos slides utilizados na apresentação acadêmica. |
+| **Visual Studio Code** | Edição e organização dos arquivos do projeto |
+| **Git** | Controle de versões e registro das alterações |
+| **GitHub** | Armazenamento do repositório e colaboração |
+| **Netlify** | Publicação do site na internet |
+| **Canva** | Elaboração da apresentação acadêmica |
+| **Navegadores Web** | Visualização e testes das páginas |
+
+### 9.5 Integração entre as Tecnologias
+
+As tecnologias utilizadas possuem responsabilidades diferentes e complementares.
+
+| Tecnologia | Responsabilidade |
+|---|---|
+| **HTML5** | Estrutura e conteúdo |
+| **CSS3** | Aparência e responsividade |
+| **JavaScript** | Interatividade e comportamento |
+| **Git/GitHub** | Versionamento e colaboração |
+| **Netlify** | Publicação e disponibilização |
+
+O funcionamento do EcoCiclo depende da integração entre essas tecnologias.
+
+Por exemplo, na alternância entre os modos claro e escuro:
+
+1. O HTML disponibiliza o botão de alternância.
+2. O CSS define a aparência de cada tema.
+3. O JavaScript identifica a interação.
+4. O DOM é atualizado para aplicar o tema.
+5. O `localStorage` registra a preferência.
+
+Esse exemplo demonstra a aplicação conjunta das tecnologias Front-End.
+
+### 9.6 Arquitetura do Projeto
+
+O EcoCiclo utiliza uma arquitetura de site estático, composta por páginas HTML e recursos executados no navegador.
+
+A aplicação não depende de um servidor próprio para processar as interações documentadas.
+
+A estrutura lógica pode ser representada da seguinte maneira:
+
+    ECOCICLO
+       |
+       +-- HTML5
+       |     Estrutura e conteúdo
+       |
+       +-- CSS3
+       |     Estilização e responsividade
+       |
+       +-- JavaScript
+       |     Eventos, DOM e validações
+       |
+       +-- Recursos multimídia
+       |     Imagens e áudios
+       |
+       +-- Git e GitHub
+       |     Versionamento e colaboração
+       |
+       +-- Netlify
+             Publicação do site
+
+A separação das responsabilidades contribui para a organização e manutenção do código.
+
+### 9.7 Publicação do Projeto
+
+O EcoCiclo está publicado na plataforma Netlify, permitindo o acesso por meio de um endereço público.
+
+**Site:** https://ecociclo-projeto.netlify.app/
+
+A publicação facilita a apresentação acadêmica e permite que outras pessoas conheçam o projeto diretamente pelo navegador.
+
+### 9.8 Possibilidades de Evolução Técnica
+
+Embora o projeto atenda a uma proposta acadêmica de desenvolvimento Front-End, sua estrutura permite futuras melhorias.
+
+Entre as possibilidades estão:
+
+- Aperfeiçoamento da navegação mobile.
+- Otimização de imagens e arquivos multimídia.
+- Ampliação dos testes automatizados.
+- Melhorias de acessibilidade.
+- Integração futura com serviços de Back-End.
+- Implementação de envio real de mensagens.
+- Ampliação dos conteúdos educativos.
+
+Essas possibilidades representam evoluções futuras e não funcionalidades já implementadas.
 
 ---
 
